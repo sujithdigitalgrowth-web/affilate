@@ -227,6 +227,11 @@ async function loadVendors() {
       .sort((first, second) => second.matchScore - first.matchScore);
 
     renderVendors(vendors, "");
+    
+    // Ensure industries populate after rendering
+    setTimeout(() => {
+      populateIndustries();
+    }, 100);
   } catch (error) {
     vendorGrid.innerHTML =
       '<div class="empty-state"><strong>Could not load vendor data.</strong><br />Please check vendors_data.json and reload.</div>';
@@ -244,6 +249,42 @@ clearSearch.addEventListener("click", () => {
   searchInput.focus();
 });
 
+function populateIndustries() {
+  const industriesList = document.getElementById("industriesList");
+  if (!industriesList) return;
+  
+  const allIndustries = new Set();
+
+  if (vendors && Array.isArray(vendors)) {
+    vendors.forEach((vendor) => {
+      const industries = asArray(vendor.industries);
+      industries.forEach((industry) => {
+        if (industry && industry.trim()) {
+          allIndustries.add(industry.trim());
+        }
+      });
+    });
+  }
+
+  const sortedIndustries = Array.from(allIndustries).sort();
+
+  industriesList.innerHTML = sortedIndustries
+    .map(
+      (industry) =>
+        `<button type="button" data-industry="${industry}" class="industry-btn">${industry}</button>`
+    )
+    .join("");
+
+  // Add event listeners to all industry buttons
+  industriesList.querySelectorAll("button").forEach((button) => {
+    button.addEventListener("click", () => {
+      const industry = button.dataset.industry || "";
+      searchInput.value = industry;
+      applySearch(industry);
+    });
+  });
+}
+
 quickTags.addEventListener("click", (event) => {
   const button = event.target.closest("button[data-tag]");
   if (!button) {
@@ -255,4 +296,100 @@ quickTags.addEventListener("click", (event) => {
   applySearch(tag);
 });
 
+function showToast(message, type = "success") {
+  const toastContainer = document.getElementById("toastContainer");
+  const toast = document.createElement("div");
+  toast.className = `toast ${type}`;
+  toast.innerHTML = `
+    <span class="toast-icon">✓</span>
+    <span class="toast-message">${message}</span>
+    <button type="button" class="toast-close" aria-label="Close notification">&times;</button>
+  `;
+
+  toastContainer.appendChild(toast);
+
+  const closeBtn = toast.querySelector(".toast-close");
+  closeBtn.addEventListener("click", () => {
+    toast.classList.add("removing");
+    setTimeout(() => toast.remove(), 300);
+  });
+
+  setTimeout(() => {
+    toast.classList.add("removing");
+    setTimeout(() => toast.remove(), 300);
+  }, 4000);
+}
+
+function initializeAddVendorModal() {
+  const modal = document.getElementById("vendorModal");
+  const addVendorBtn = document.getElementById("addVendorBtn");
+  const closeModal = document.getElementById("closeModal");
+  const cancelForm = document.getElementById("cancelForm");
+  const addVendorForm = document.getElementById("addVendorForm");
+  const modalOverlay = document.querySelector(".modal-overlay");
+
+  function openModal() {
+    modal.style.display = "flex";
+  }
+
+  function closeModalWindow() {
+    modal.style.display = "none";
+    addVendorForm.reset();
+  }
+
+  addVendorBtn.addEventListener("click", openModal);
+  closeModal.addEventListener("click", closeModalWindow);
+  cancelForm.addEventListener("click", closeModalWindow);
+  modalOverlay.addEventListener("click", closeModalWindow);
+
+  addVendorForm.addEventListener("submit", (e) => {
+    e.preventDefault();
+
+    const name = document.getElementById("vendorName").value.trim();
+    const briefing = document.getElementById("vendorBriefing").value.trim();
+    const goodAt = document.getElementById("vendorGoodAt").value.trim();
+    const categories = document.getElementById("vendorCategories").value.trim();
+    const models = document.getElementById("vendorModels").value.trim();
+    const email = document.getElementById("vendorEmail").value.trim();
+    const website = document.getElementById("vendorWebsite").value.trim();
+    const contactName = document.getElementById("vendorContactName").value.trim();
+
+    if (!name || !briefing || !categories || !email) {
+      alert("Please fill in required fields: Vendor Name, Briefing, Categories, and Email");
+      return;
+    }
+
+    const parseCommaSeparated = (value) =>
+      value
+        .split(",")
+        .map((item) => item.trim())
+        .filter((item) => item.length > 0);
+
+    const newVendor = {
+      sr_no: vendors.length + 1,
+      company_name: name,
+      type: "Affiliate",
+      primary_email: email,
+      website: website || "",
+      description: briefing,
+      services: parseCommaSeparated(goodAt),
+      industries: parseCommaSeparated(categories),
+      models: parseCommaSeparated(models),
+      tags: [],
+      contacts: contactName ? [{ name: contactName, email: email }] : []
+    };
+
+    const normalizedVendor = normalizeVendor(newVendor);
+    vendors.unshift(normalizedVendor);
+
+    closeModalWindow();
+    applySearch(searchInput.value);
+    populateIndustries();
+    showToast(`✨ New vendor "${name}" added successfully!`);
+
+    console.log("New vendor added:", normalizedVendor);
+  });
+}
+
+initializeAddVendorModal();
 loadVendors();
