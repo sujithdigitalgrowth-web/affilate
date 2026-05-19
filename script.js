@@ -227,11 +227,6 @@ async function loadVendors() {
       .sort((first, second) => second.matchScore - first.matchScore);
 
     renderVendors(vendors, "");
-    
-    // Ensure industries populate after rendering
-    setTimeout(() => {
-      populateIndustries();
-    }, 100);
   } catch (error) {
     vendorGrid.innerHTML =
       '<div class="empty-state"><strong>Could not load vendor data.</strong><br />Please check vendors_data.json and reload.</div>';
@@ -248,42 +243,6 @@ clearSearch.addEventListener("click", () => {
   applySearch("");
   searchInput.focus();
 });
-
-function populateIndustries() {
-  const industriesList = document.getElementById("industriesList");
-  if (!industriesList) return;
-  
-  const allIndustries = new Set();
-
-  if (vendors && Array.isArray(vendors)) {
-    vendors.forEach((vendor) => {
-      const industries = asArray(vendor.industries);
-      industries.forEach((industry) => {
-        if (industry && industry.trim()) {
-          allIndustries.add(industry.trim());
-        }
-      });
-    });
-  }
-
-  const sortedIndustries = Array.from(allIndustries).sort();
-
-  industriesList.innerHTML = sortedIndustries
-    .map(
-      (industry) =>
-        `<button type="button" data-industry="${industry}" class="industry-btn">${industry}</button>`
-    )
-    .join("");
-
-  // Add event listeners to all industry buttons
-  industriesList.querySelectorAll("button").forEach((button) => {
-    button.addEventListener("click", () => {
-      const industry = button.dataset.industry || "";
-      searchInput.value = industry;
-      applySearch(industry);
-    });
-  });
-}
 
 quickTags.addEventListener("click", (event) => {
   const button = event.target.closest("button[data-tag]");
@@ -384,7 +343,6 @@ function initializeAddVendorModal() {
 
     closeModalWindow();
     applySearch(searchInput.value);
-    populateIndustries();
     showToast(`✨ New vendor "${name}" added successfully!`);
 
     console.log("New vendor added:", normalizedVendor);
