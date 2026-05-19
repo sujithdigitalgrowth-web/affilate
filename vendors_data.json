@@ -1,0 +1,5704 @@
+{
+  "meta": {
+    "total_vendors": 250,
+    "enriched_count": 53,
+    "types": [
+      "Affiliate",
+      "Publisher",
+      "Platform Integrators"
+    ],
+    "source": "Vendors_List.xlsx"
+  },
+  "vendors": [
+    {
+      "sr_no": 1,
+      "company_name": "ACEBO TECHNOLOGIES PRIVATE LIMITED",
+      "type": "Affiliate",
+      "primary_email": "sumit@acebotechnologies.com",
+      "contacts": [
+        {
+          "name": "Sumit Bharadwaj",
+          "email": "sumit@acebotechnologies.com"
+        },
+        {
+          "name": "Deepak Kumar",
+          "email": "deepak@acebotechnologies.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 2,
+      "company_name": "ADMATTIC",
+      "type": "Affiliate",
+      "primary_email": "vrushali@admattic.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "vrushali@admattic.com"
+        }
+      ],
+      "website": "admattic.com",
+      "services": [
+        "Mobile-First Advertising",
+        "Performance Marketing"
+      ],
+      "industries": [
+        "Gaming",
+        "E-commerce",
+        "Finance & BFSI"
+      ],
+      "models": [
+        "CPI",
+        "CPA"
+      ],
+      "description": "Mobile-first advertising company focusing on gaming and app performance campaigns.",
+      "tags": [
+        "Mobile",
+        "Gaming",
+        "Performance"
+      ]
+    },
+    {
+      "sr_no": 3,
+      "company_name": "ADOBRAIN MEDIA",
+      "type": "Affiliate",
+      "primary_email": "anubhuti@adobrain.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "anubhuti@adobrain.com"
+        }
+      ],
+      "website": "adobrain.com",
+      "services": [
+        "Performance Marketing",
+        "Digital Advertising",
+        "Lead Generation"
+      ],
+      "industries": [
+        "E-commerce",
+        "Finance & BFSI",
+        "Travel"
+      ],
+      "models": [
+        "CPA",
+        "CPL",
+        "CPM"
+      ],
+      "description": "Digital advertising and performance marketing agency with multi-vertical capabilities.",
+      "tags": [
+        "Performance",
+        "Lead Gen",
+        "Multi-Vertical"
+      ]
+    },
+    {
+      "sr_no": 4,
+      "company_name": "ADSIRIUS MEDIA",
+      "type": "Affiliate",
+      "primary_email": "ritu@adsirius.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "ritu@adsirius.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 5,
+      "company_name": "ADSPHIRE MEDIA PRIVATE LIMITED",
+      "type": "Affiliate",
+      "primary_email": "sudip@adsphire.com",
+      "contacts": [
+        {
+          "name": "Sudip Chauhan",
+          "email": "sudip@adsphire.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 6,
+      "company_name": "ADSREVERB",
+      "type": "Affiliate",
+      "primary_email": "chirag@adsreverb.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "chirag@adsreverb.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 7,
+      "company_name": "ADZURITE SOLUTIONS PRIVATE LIMITED",
+      "type": "Affiliate",
+      "primary_email": "mansi.kalsait@adzurite.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "mansi.kalsait@adzurite.com"
+        }
+      ],
+      "website": "adzurite.com",
+      "services": [
+        "Performance Marketing",
+        "Mobile Advertising",
+        "CPA Campaigns"
+      ],
+      "industries": [
+        "E-commerce",
+        "Finance & BFSI",
+        "Gaming"
+      ],
+      "models": [
+        "CPA",
+        "CPL",
+        "CPI"
+      ],
+      "description": "Performance marketing network providing mobile ad campaigns across key verticals.",
+      "tags": [
+        "Performance",
+        "Mobile",
+        "CPA",
+        "India"
+      ]
+    },
+    {
+      "sr_no": 8,
+      "company_name": "AFFRISE MEDIA PRIVATE LIMITED",
+      "type": "Affiliate",
+      "primary_email": "akanksha.ratra@affrisemedia.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "akanksha.ratra@affrisemedia.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 9,
+      "company_name": "AZZURE MEDIA",
+      "type": "Affiliate",
+      "primary_email": "tanmay.haldankar@azzuremedia.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "tanmay.haldankar@azzuremedia.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 10,
+      "company_name": "Bharatmetro Digital Services Private Limited (TAT-ADZ)",
+      "type": "Affiliate",
+      "primary_email": "mir@tat-adz.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "mir@tat-adz.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 11,
+      "company_name": "BIZ AD OPTIMISER PRIVATE LIMITED",
+      "type": "Affiliate",
+      "primary_email": "vikash@iavatarz.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "vikash@iavatarz.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 12,
+      "company_name": "Crustal Ads Private Limited",
+      "type": "Affiliate",
+      "primary_email": "pooja@crustalads.in",
+      "contacts": [
+        {
+          "name": "",
+          "email": "pooja@crustalads.in"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 13,
+      "company_name": "DE QUANTA FI MEDIA PRIVATE LIMITED",
+      "type": "Affiliate",
+      "primary_email": "prateek@quantafi.in",
+      "contacts": [
+        {
+          "name": "",
+          "email": "prateek@quantafi.in"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 14,
+      "company_name": "MOBUPPS INTERNATIONAL LTD.",
+      "type": "Affiliate",
+      "primary_email": "bhavya@mobupps.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "bhavya@mobupps.com"
+        }
+      ],
+      "website": "mobupps.com",
+      "services": [
+        "Mobile User Acquisition",
+        "Programmatic Advertising",
+        "App Monetization",
+        "Retargeting",
+        "CTV Advertising"
+      ],
+      "industries": [
+        "E-commerce",
+        "Gaming",
+        "Finance & BFSI",
+        "Entertainment",
+        "Travel",
+        "Health & Beauty",
+        "Education"
+      ],
+      "models": [
+        "CPI",
+        "CPA",
+        "CPM",
+        "CPC",
+        "CPL"
+      ],
+      "description": "Global mobile ad-tech platform with DSP/SSP, AI-driven targeting, 10K+ publishers. Strong in performance & programmatic.",
+      "tags": [
+        "Mobile",
+        "Programmatic",
+        "DSP",
+        "SSP",
+        "Anti-Fraud",
+        "Global"
+      ]
+    },
+    {
+      "sr_no": 15,
+      "company_name": "DIGITAL ADZ HUB",
+      "type": "Affiliate",
+      "primary_email": "krishan.k@digitaladzhub.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "krishan.k@digitaladzhub.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 16,
+      "company_name": "FILLY MEDIA SOLUTIONS PRIVATE LIMITED",
+      "type": "Affiliate",
+      "primary_email": "kritika@fillymedia.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "kritika@fillymedia.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 17,
+      "company_name": "HYBRID ADTECH PRIVATE LIMITED",
+      "type": "Affiliate",
+      "primary_email": "s.dhareshwar@hybrid.ai",
+      "contacts": [
+        {
+          "name": "Sanchali Dhareshwar",
+          "email": "s.dhareshwar@hybrid.ai"
+        }
+      ],
+      "website": "hybrid.ai",
+      "services": [
+        "Programmatic Advertising",
+        "AI-Driven Campaigns",
+        "User Acquisition",
+        "Omnichannel Advertising"
+      ],
+      "industries": [
+        "E-commerce",
+        "Gaming",
+        "Finance & BFSI",
+        "Entertainment"
+      ],
+      "models": [
+        "CPM",
+        "CPC",
+        "CPA",
+        "CPI"
+      ],
+      "description": "AI-powered programmatic advertising platform with omnichannel reach.",
+      "tags": [
+        "AI",
+        "Programmatic",
+        "Omnichannel",
+        "Global"
+      ]
+    },
+    {
+      "sr_no": 18,
+      "company_name": "KEEN DIGITAL",
+      "type": "Affiliate",
+      "primary_email": "ak@igknights.com",
+      "contacts": [
+        {
+          "name": "Abhishek Kapadia",
+          "email": "ak@igknights.com"
+        },
+        {
+          "name": "vivek raj",
+          "email": "vivek.raj@igknights.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 19,
+      "company_name": "LEAD GENETICS",
+      "type": "Affiliate",
+      "primary_email": "harpreet@leadgenetics.in",
+      "contacts": [
+        {
+          "name": "",
+          "email": "harpreet@leadgenetics.in"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 20,
+      "company_name": "Lucrative Advertising Private Limited (Adsflourish)",
+      "type": "Affiliate",
+      "primary_email": "mohit.bajaj@adsflourish.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "mohit.bajaj@adsflourish.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 21,
+      "company_name": "MOBAVENUE MEDIA PRIVATE LIMITED",
+      "type": "Affiliate",
+      "primary_email": "ruchika.rajput@mobavenue.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "ruchika.rajput@mobavenue.com"
+        }
+      ],
+      "website": "mobavenue.com",
+      "services": [
+        "Mobile Performance Marketing",
+        "User Acquisition",
+        "App Monetization",
+        "Programmatic"
+      ],
+      "industries": [
+        "E-commerce",
+        "Gaming",
+        "Finance & BFSI",
+        "EdTech",
+        "Travel"
+      ],
+      "models": [
+        "CPI",
+        "CPA",
+        "CPM"
+      ],
+      "description": "Mobile performance marketing platform specializing in user acquisition and app monetization across India and emerging markets.",
+      "tags": [
+        "Mobile",
+        "Performance",
+        "User Acquisition",
+        "India"
+      ]
+    },
+    {
+      "sr_no": 22,
+      "company_name": "MOBISATURN",
+      "type": "Affiliate",
+      "primary_email": "deepak.baghel@mobisaturn.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "deepak.baghel@mobisaturn.com"
+        }
+      ],
+      "website": "mobisaturn.com",
+      "services": [
+        "Mobile Advertising",
+        "Performance Marketing",
+        "User Acquisition"
+      ],
+      "industries": [
+        "E-commerce",
+        "Gaming",
+        "Finance & BFSI"
+      ],
+      "models": [
+        "CPI",
+        "CPA",
+        "CPM"
+      ],
+      "description": "Mobile advertising network focused on performance-driven user acquisition campaigns.",
+      "tags": [
+        "Mobile",
+        "Performance",
+        "User Acquisition",
+        "India"
+      ]
+    },
+    {
+      "sr_no": 23,
+      "company_name": "Netcore",
+      "type": "Affiliate",
+      "primary_email": "",
+      "contacts": [],
+      "website": "netcorecloud.com",
+      "services": [
+        "Email Marketing",
+        "Customer Engagement Platform",
+        "Push Notifications",
+        "AI-Personalization",
+        "Omnichannel Marketing"
+      ],
+      "industries": [
+        "E-commerce",
+        "Finance & BFSI",
+        "Travel",
+        "EdTech",
+        "Retail",
+        "Gaming"
+      ],
+      "models": [
+        "SaaS Platform"
+      ],
+      "description": "Full-stack customer engagement and marketing automation platform. Email, push, SMS, in-app.",
+      "tags": [
+        "Email",
+        "CEP",
+        "Push",
+        "Automation",
+        "Personalization",
+        "India"
+      ]
+    },
+    {
+      "sr_no": 24,
+      "company_name": "OPTIMINASTIC",
+      "type": "Affiliate",
+      "primary_email": "meghal@optiminastic.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "meghal@optiminastic.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 25,
+      "company_name": "PARABOLIC LEADS PRIVATE LIMITED",
+      "type": "Affiliate",
+      "primary_email": "bhoomi.p@prblc.com",
+      "contacts": [
+        {
+          "name": "Bhoomi Pandya",
+          "email": "bhoomi.p@prblc.com"
+        },
+        {
+          "name": "Raj M",
+          "email": "raj.m@prblc.com"
+        },
+        {
+          "name": "Rupali Pawar",
+          "email": "rupali@prblc.com"
+        },
+        {
+          "name": "Subramani Rajagopal",
+          "email": "subbu@prblc.com"
+        }
+      ],
+      "website": "prblc.com",
+      "services": [
+        "Lead Generation",
+        "Performance Marketing",
+        "CPA Campaigns"
+      ],
+      "industries": [
+        "Finance & BFSI",
+        "Insurance",
+        "E-commerce",
+        "EdTech",
+        "Real Estate"
+      ],
+      "models": [
+        "CPL",
+        "CPA"
+      ],
+      "description": "Performance marketing company specializing in quality lead generation for finance, insurance, and education verticals.",
+      "tags": [
+        "Lead Gen",
+        "Finance",
+        "Insurance",
+        "CPL",
+        "India"
+      ]
+    },
+    {
+      "sr_no": 26,
+      "company_name": "PERFORMANCE Launch pad",
+      "type": "Affiliate",
+      "primary_email": "kgoyal@plaunchpad.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "kgoyal@plaunchpad.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 27,
+      "company_name": "POLYVALENT DIGITAL SERVICES PRIVATE LIMITED",
+      "type": "Affiliate",
+      "primary_email": "Surbhi@polyvalent.co.in",
+      "contacts": [
+        {
+          "name": "",
+          "email": "Surbhi@polyvalent.co.in"
+        },
+        {
+          "name": "",
+          "email": "sakshu@polyvalent.co.in"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 28,
+      "company_name": "RETAIL9 VENTURES",
+      "type": "Affiliate",
+      "primary_email": "anujpandey@rtbdemand.com",
+      "contacts": [
+        {
+          "name": "Anuj Pandey",
+          "email": "anujpandey@rtbdemand.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 29,
+      "company_name": "RR WEALTH AND INVESTMENTS PRIVATE LIMITED (ADZPRESSWAY)",
+      "type": "Affiliate",
+      "primary_email": "anirudh@adzpressway.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "anirudh@adzpressway.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 30,
+      "company_name": "SEGUMENTO",
+      "type": "Affiliate",
+      "primary_email": "anupama@segumento.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "anupama@segumento.com"
+        }
+      ],
+      "website": "segumento.com",
+      "services": [
+        "Data-Driven Performance Marketing",
+        "Audience Segmentation",
+        "Programmatic"
+      ],
+      "industries": [
+        "E-commerce",
+        "Finance & BFSI",
+        "Travel",
+        "Telecom"
+      ],
+      "models": [
+        "CPM",
+        "CPA",
+        "CPC"
+      ],
+      "description": "Data-driven programmatic and performance marketing platform with audience intelligence capabilities.",
+      "tags": [
+        "Data",
+        "Audience",
+        "Programmatic",
+        "Segmentation"
+      ]
+    },
+    {
+      "sr_no": 31,
+      "company_name": "SGS GLOBAL SERVICES PRIVATE LIMITED",
+      "type": "Affiliate",
+      "primary_email": "sanchi.sharma@ad2click.in",
+      "contacts": [
+        {
+          "name": "Sanchi Sharma",
+          "email": "sanchi.sharma@ad2click.in"
+        },
+        {
+          "name": "Shilpa Singh",
+          "email": "shilpa.singh@ad2click.in"
+        },
+        {
+          "name": "Narin Shetty",
+          "email": "narin@ad2click.in"
+        },
+        {
+          "name": "Gyan Sir",
+          "email": "gyan@ad2click.in"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 32,
+      "company_name": "SMART BYTE MEDIA PRIVATE LIMITED",
+      "type": "Affiliate",
+      "primary_email": "trupti.tulasyan@adamplify.net",
+      "contacts": [
+        {
+          "name": "",
+          "email": "trupti.tulasyan@adamplify.net"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 33,
+      "company_name": "SMART CONNECT",
+      "type": "Affiliate",
+      "primary_email": "shoaib@smartconnect-sg.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "shoaib@smartconnect-sg.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 34,
+      "company_name": "TECHFINAD PRIVATE LIMITED",
+      "type": "Affiliate",
+      "primary_email": "info@techfinad.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "info@techfinad.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 35,
+      "company_name": "TUNICALABS MEDIA PRIVATE LIMITED",
+      "type": "Affiliate",
+      "primary_email": "lalit.b@tunicalabsmedia.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "lalit.b@tunicalabsmedia.com"
+        },
+        {
+          "name": "",
+          "email": "arjun.s@tunicalabsmedia.com"
+        },
+        {
+          "name": "",
+          "email": "anil.k@tunicalabsmedia.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 36,
+      "company_name": "VPRO DIGITAL PRIVATE LIMITED",
+      "type": "Affiliate",
+      "primary_email": "accounts@vprodigital.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "accounts@vprodigital.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 37,
+      "company_name": "WAY2NEWS PRIVATE LIMITED",
+      "type": "Affiliate",
+      "primary_email": "billing@way2news.co",
+      "contacts": [
+        {
+          "name": "Way2News Billing",
+          "email": "billing@way2news.co"
+        }
+      ],
+      "website": "way2news.co",
+      "services": [
+        "Regional News Advertising",
+        "Vernacular Push Notifications",
+        "Content Advertising"
+      ],
+      "industries": [
+        "FMCG",
+        "Finance & BFSI",
+        "Telecom",
+        "E-commerce"
+      ],
+      "models": [
+        "CPM",
+        "CPC",
+        "Push"
+      ],
+      "description": "India's largest regional news app. Vernacular push notification advertising reaching Tier 2 & 3 India.",
+      "tags": [
+        "Vernacular",
+        "Regional",
+        "News",
+        "Push",
+        "Tier 2/3"
+      ]
+    },
+    {
+      "sr_no": 38,
+      "company_name": "WVALUE MARTECH PRIVATE LIMITED",
+      "type": "Affiliate",
+      "primary_email": "vijay.shinde@whistle.mobi",
+      "contacts": [
+        {
+          "name": "",
+          "email": "vijay.shinde@whistle.mobi"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 39,
+      "company_name": "3DOT14 MOBITECH PRIVATE LIMITED",
+      "type": "Affiliate",
+      "primary_email": "ritika.gupta@3dot14.co",
+      "contacts": [
+        {
+          "name": "",
+          "email": "ritika.gupta@3dot14.co"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 40,
+      "company_name": "ADALGO DIGITAL MEDIA PRIVATE LIMITED",
+      "type": "Affiliate",
+      "primary_email": "kanish@adalgodigital.com",
+      "contacts": [
+        {
+          "name": "Kanish Bagga",
+          "email": "kanish@adalgodigital.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 41,
+      "company_name": "ADCANOPUS DIGITEL MEDIA PRIVATE LIMITED",
+      "type": "Affiliate",
+      "primary_email": "Bharathky@adcanopus.com",
+      "contacts": [
+        {
+          "name": "Bharath K Y",
+          "email": "Bharathky@adcanopus.com"
+        }
+      ],
+      "website": "adcanopus.com",
+      "services": [
+        "Mobile Advertising",
+        "Performance Marketing",
+        "App Installs",
+        "User Acquisition"
+      ],
+      "industries": [
+        "Gaming",
+        "E-commerce",
+        "Finance & BFSI",
+        "Entertainment"
+      ],
+      "models": [
+        "CPI",
+        "CPA",
+        "CPM"
+      ],
+      "description": "Mobile performance advertising network with focus on user acquisition and app install campaigns.",
+      "tags": [
+        "Mobile",
+        "App Installs",
+        "Performance",
+        "User Acquisition"
+      ]
+    },
+    {
+      "sr_no": 42,
+      "company_name": "ADSCLUES MEDIA LLP",
+      "type": "Affiliate",
+      "primary_email": "aanchal@adsclues.in",
+      "contacts": [
+        {
+          "name": "Aanchal Nandwani",
+          "email": "aanchal@adsclues.in"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 43,
+      "company_name": "ADSOLUT MEDIA PRIVATE LIMITED",
+      "type": "Affiliate",
+      "primary_email": "aksh@adsolut.in",
+      "contacts": [
+        {
+          "name": "Aksh Chhetija",
+          "email": "aksh@adsolut.in"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 44,
+      "company_name": "ADZMONK DIGITAL PRIVATE LIMITED",
+      "type": "Affiliate",
+      "primary_email": "alka@adzmonk.com",
+      "contacts": [
+        {
+          "name": "Alka Chaturvedi",
+          "email": "alka@adzmonk.com"
+        },
+        {
+          "name": "",
+          "email": "suchandra@adzmonkdigital.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 45,
+      "company_name": "AFFNET MARKETING MEDIA PRIVATE LIMITED",
+      "type": "Affiliate",
+      "primary_email": "ravi.narang@affnetmedia.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "ravi.narang@affnetmedia.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 46,
+      "company_name": "ANALYTICS CLOUD",
+      "type": "Affiliate",
+      "primary_email": "deepika@analyticsclouds.com",
+      "contacts": [
+        {
+          "name": "Deepika Arora",
+          "email": "deepika@analyticsclouds.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 47,
+      "company_name": "App Monetize",
+      "type": "Affiliate",
+      "primary_email": "kartik@appmontize.co.in",
+      "contacts": [
+        {
+          "name": "",
+          "email": "kartik@appmontize.co.in"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 48,
+      "company_name": "BRAND MITRA",
+      "type": "Affiliate",
+      "primary_email": "support@brandmitra.in",
+      "contacts": [
+        {
+          "name": "",
+          "email": "support@brandmitra.in"
+        },
+        {
+          "name": "",
+          "email": "shashank@brandmitra.in"
+        },
+        {
+          "name": "",
+          "email": "accounts@brandmitra.in"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 49,
+      "company_name": "CALIDAD CLICKS",
+      "type": "Affiliate",
+      "primary_email": "bhaskar@calidadclicks.com",
+      "contacts": [
+        {
+          "name": "Bhaskar Calidad Clicks",
+          "email": "bhaskar@calidadclicks.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 50,
+      "company_name": "CLICKONIK DIGITAL MEDIA PRIVATE LIMITED",
+      "type": "Affiliate",
+      "primary_email": "akanksha.garg@clickonik.com",
+      "contacts": [
+        {
+          "name": "Akanksha Garg",
+          "email": "akanksha.garg@clickonik.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 51,
+      "company_name": "COLLECTCENT DIGITAL MEDIA PRIVATE LIMITED",
+      "type": "Affiliate",
+      "primary_email": "anima@collectcent.com",
+      "contacts": [
+        {
+          "name": "Anima Mohapatra",
+          "email": "anima@collectcent.com"
+        }
+      ],
+      "website": "collectcent.com",
+      "services": [
+        "Affiliate Network",
+        "Lead Generation",
+        "App Installs",
+        "CPA Campaigns"
+      ],
+      "industries": [
+        "Finance & BFSI",
+        "E-commerce",
+        "Travel",
+        "EdTech",
+        "Utilities"
+      ],
+      "models": [
+        "CPA",
+        "CPL",
+        "CPI"
+      ],
+      "description": "Performance-based affiliate network with strong Indian publisher base. Focus on finance, e-commerce, and lead generation.",
+      "tags": [
+        "Affiliate Network",
+        "Lead Gen",
+        "India",
+        "Performance"
+      ]
+    },
+    {
+      "sr_no": 52,
+      "company_name": "DIGIROVERS SOLUTIONS PRIVATE LIMITED",
+      "type": "Affiliate",
+      "primary_email": "saloni.patni@digirovers.com",
+      "contacts": [
+        {
+          "name": "Saloni Patni",
+          "email": "saloni.patni@digirovers.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 53,
+      "company_name": "DIGITAL SHOUT OUTS MEDIA PRIVATE LIMITED",
+      "type": "Affiliate",
+      "primary_email": "ashish@digitalshoutouts.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "ashish@digitalshoutouts.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 54,
+      "company_name": "DIGIXPRESSIONS MEDIA PRIVATE LIMITED",
+      "type": "Affiliate",
+      "primary_email": "vinay@digixpressions.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "vinay@digixpressions.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 55,
+      "company_name": "Dnectar Marketing Solutions Private Limited",
+      "type": "Affiliate",
+      "primary_email": "satya@dnectar.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "satya@dnectar.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 56,
+      "company_name": "GLOBALPLAY MEDIA TECHNOLOGIES PRIVATE LIMITED",
+      "type": "Affiliate",
+      "primary_email": "himani.singh@globalemedia.net",
+      "contacts": [
+        {
+          "name": "Himani Singh",
+          "email": "himani.singh@globalemedia.net"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 57,
+      "company_name": "HAVMOR MEDIA",
+      "type": "Affiliate",
+      "primary_email": "shikha@havmormedia.com",
+      "contacts": [
+        {
+          "name": "Shikha Sharma",
+          "email": "shikha@havmormedia.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 58,
+      "company_name": "HEXA WEBONY PRIVATE LIMITED",
+      "type": "Affiliate",
+      "primary_email": "rajdeep@hexawebony.com",
+      "contacts": [
+        {
+          "name": "Rajdeep Bose",
+          "email": "rajdeep@hexawebony.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 59,
+      "company_name": "IGKNIGHTS MEDIA (OPC) PRIVATE LIMITED",
+      "type": "Affiliate",
+      "primary_email": "ak@igknights.com",
+      "contacts": [
+        {
+          "name": "Abhishek Kapadia",
+          "email": "ak@igknights.com"
+        },
+        {
+          "name": "vivek raj",
+          "email": "vivek.raj@igknights.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 60,
+      "company_name": "MAGIXENGAGE PRIVATE LIMITED",
+      "type": "Affiliate",
+      "primary_email": "vinayak@magixengage.com",
+      "contacts": [
+        {
+          "name": "Vinayak poddar",
+          "email": "vinayak@magixengage.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 61,
+      "company_name": "MEDIASCOPY DIGITAL SOLUTIONS",
+      "type": "Affiliate",
+      "primary_email": "richa@mediascopy.com",
+      "contacts": [
+        {
+          "name": "Richa Kukreja",
+          "email": "richa@mediascopy.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 62,
+      "company_name": "MOB FOUNTAIN MEDIA PRIVATE LIMITED",
+      "type": "Affiliate",
+      "primary_email": "anant.goel@efountain.in",
+      "contacts": [
+        {
+          "name": "",
+          "email": "anant.goel@efountain.in"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 63,
+      "company_name": "MOMENTUS DIGITAL MEDIA PRIVATE LIMITED",
+      "type": "Affiliate",
+      "primary_email": "kinjal.d@momentus.in",
+      "contacts": [
+        {
+          "name": "Kinjal Dwivedi",
+          "email": "kinjal.d@momentus.in"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 64,
+      "company_name": "OODLE DIGITAL",
+      "type": "Affiliate",
+      "primary_email": "tuvisha@oodledigital.com",
+      "contacts": [
+        {
+          "name": "Tuvisha Singal",
+          "email": "tuvisha@oodledigital.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 65,
+      "company_name": "OPICLE TECHNOLOGIES PRIVATE LIMITED",
+      "type": "Affiliate",
+      "primary_email": "ankit.srivastava@opicle.org",
+      "contacts": [
+        {
+          "name": "",
+          "email": "ankit.srivastava@opicle.org"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 66,
+      "company_name": "Oxy Digital Media",
+      "type": "Affiliate",
+      "primary_email": "finance@oxydigitalmedia.in",
+      "contacts": [
+        {
+          "name": "Krishna Kant Pandey",
+          "email": "finance@oxydigitalmedia.in"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 67,
+      "company_name": "PRUDENT ADS PRIVATE LIMITED",
+      "type": "Affiliate",
+      "primary_email": "sahil.gupta@prudentads.com",
+      "contacts": [
+        {
+          "name": "Sahil Gupta",
+          "email": "sahil.gupta@prudentads.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 68,
+      "company_name": "PRUDIGITAL MEDIA PRIVATE LIMITED",
+      "type": "Affiliate",
+      "primary_email": "rajdeep@prudigital.in",
+      "contacts": [
+        {
+          "name": "Rajdeep Bose",
+          "email": "rajdeep@prudigital.in"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 69,
+      "company_name": "Social Sire",
+      "type": "Affiliate",
+      "primary_email": "rahul@socialsire.in",
+      "contacts": [
+        {
+          "name": "",
+          "email": "rahul@socialsire.in"
+        },
+        {
+          "name": "",
+          "email": "accounts@socialsire.in"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 70,
+      "company_name": "SPECTRUM DIGITAL",
+      "type": "Affiliate",
+      "primary_email": "sunil@spectrumdigital.in",
+      "contacts": [
+        {
+          "name": "",
+          "email": "sunil@spectrumdigital.in"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 71,
+      "company_name": "SUNMATIC TECHNOLOGIES PRIVATE LIMITED",
+      "type": "Affiliate",
+      "primary_email": "sugeesh@sunmatic.in",
+      "contacts": [
+        {
+          "name": "Sugeesh Sugathan",
+          "email": "sugeesh@sunmatic.in"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 72,
+      "company_name": "THE BALLYHOO MEDIA",
+      "type": "Affiliate",
+      "primary_email": "Sapna@theballyhoomedia.com",
+      "contacts": [
+        {
+          "name": "Sapna Singh",
+          "email": "Sapna@theballyhoomedia.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 73,
+      "company_name": "TRACKBACK MEDIA",
+      "type": "Affiliate",
+      "primary_email": "ratnam@trackbackmedia.com",
+      "contacts": [
+        {
+          "name": "Ratnam Gupta",
+          "email": "ratnam@trackbackmedia.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 74,
+      "company_name": "UTM Digital",
+      "type": "Affiliate",
+      "primary_email": "parakh@utmdigital.com",
+      "contacts": [
+        {
+          "name": "Parakh Sharma",
+          "email": "parakh@utmdigital.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 75,
+      "company_name": "VENTES AVENUES PRIVATE LIMITED",
+      "type": "Affiliate",
+      "primary_email": "ketan@ventesavenues.in",
+      "contacts": [
+        {
+          "name": "",
+          "email": "ketan@ventesavenues.in"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 76,
+      "company_name": "VERTOZ ADVERTISING LIMITED",
+      "type": "Affiliate",
+      "primary_email": "taranath.shetty@vertoz.com",
+      "contacts": [
+        {
+          "name": "Taranath Shetty",
+          "email": "taranath.shetty@vertoz.com"
+        }
+      ],
+      "website": "vertoz.com",
+      "services": [
+        "Programmatic Advertising",
+        "Ad Exchange",
+        "Publisher Monetization",
+        "Performance Marketing"
+      ],
+      "industries": [
+        "E-commerce",
+        "Finance & BFSI",
+        "Gaming",
+        "Entertainment",
+        "Travel"
+      ],
+      "models": [
+        "CPM",
+        "CPC",
+        "CPA",
+        "CPI"
+      ],
+      "description": "Programmatic advertising platform listed on Indian markets. DSP + SSP stack, 90% revenue from international markets.",
+      "tags": [
+        "Programmatic",
+        "Ad Exchange",
+        "Listed",
+        "Global",
+        "DSP/SSP"
+      ]
+    },
+    {
+      "sr_no": 77,
+      "company_name": "MOBILOGI TECHNOLOGIES PRIVATE LIMITED",
+      "type": "Affiliate",
+      "primary_email": "zakirqureshi@demanddesk.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "zakirqureshi@demanddesk.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 78,
+      "company_name": "XPLORE DIGITAL",
+      "type": "Affiliate",
+      "primary_email": "finance@xploredigital.in",
+      "contacts": [
+        {
+          "name": "",
+          "email": "finance@xploredigital.in"
+        },
+        {
+          "name": "",
+          "email": "siddharth@xploredigital.in"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 79,
+      "company_name": "TRACKIER",
+      "type": "Affiliate",
+      "primary_email": "kaustubh@trackier.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "kaustubh@trackier.com"
+        }
+      ],
+      "website": "trackier.com",
+      "services": [
+        "Affiliate Tracking Software",
+        "Performance Marketing Platform",
+        "Mobile Attribution",
+        "Fraud Detection",
+        "Partner Management"
+      ],
+      "industries": [
+        "E-commerce",
+        "Finance & BFSI",
+        "SaaS",
+        "Gaming",
+        "Travel",
+        "EdTech"
+      ],
+      "models": [
+        "SaaS Platform"
+      ],
+      "description": "India-based SaaS performance marketing platform. Trusted by ICICI Bank, Flipkart, OLX. Real-time analytics & fraud prevention.",
+      "tags": [
+        "SaaS",
+        "Attribution",
+        "Tracking",
+        "Fraud Prevention",
+        "India",
+        "API"
+      ]
+    },
+    {
+      "sr_no": 80,
+      "company_name": "THE NEWJ",
+      "type": "Affiliate",
+      "primary_email": "varun.tukrel@thenewj.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "varun.tukrel@thenewj.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 81,
+      "company_name": "ADSTOOL SERVICES PRIVATE LIMITED",
+      "type": "Affiliate",
+      "primary_email": "ajay@adstool.in",
+      "contacts": [
+        {
+          "name": "Ajay Kumar",
+          "email": "ajay@adstool.in"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 82,
+      "company_name": "DEMANDDESK",
+      "type": "Affiliate",
+      "primary_email": "ashfaq@demandesk.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "ashfaq@demandesk.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 83,
+      "company_name": "WHISTLE FEED",
+      "type": "Affiliate",
+      "primary_email": "vijay.shinde@whistle.mobi",
+      "contacts": [
+        {
+          "name": "",
+          "email": "vijay.shinde@whistle.mobi"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 84,
+      "company_name": "MRN DIGITAL SERVICES PRIVATE LIMITED",
+      "type": "Affiliate",
+      "primary_email": "harsh.sharma@mrndigital.in",
+      "contacts": [
+        {
+          "name": "Harsh Sharma",
+          "email": "harsh.sharma@mrndigital.in"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 85,
+      "company_name": "UPRISE MEDIA",
+      "type": "Affiliate",
+      "primary_email": "sandeep@uprisemedia.co.in",
+      "contacts": [
+        {
+          "name": "",
+          "email": "sandeep@uprisemedia.co.in"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 86,
+      "company_name": "XUNO.AI",
+      "type": "Affiliate",
+      "primary_email": "yatharth.b@xuno.ai",
+      "contacts": [
+        {
+          "name": "",
+          "email": "yatharth.b@xuno.ai"
+        }
+      ],
+      "website": "xuno.ai",
+      "services": [
+        "AI-Powered Advertising",
+        "Programmatic",
+        "User Acquisition",
+        "Creative Optimization"
+      ],
+      "industries": [
+        "E-commerce",
+        "Gaming",
+        "Finance & BFSI"
+      ],
+      "models": [
+        "CPI",
+        "CPA",
+        "CPM"
+      ],
+      "description": "AI-powered performance marketing platform with automated creative optimization and programmatic buying.",
+      "tags": [
+        "AI",
+        "Programmatic",
+        "Creative AI",
+        "Performance"
+      ]
+    },
+    {
+      "sr_no": 87,
+      "company_name": "ADZEALOUS MEDIA",
+      "type": "Affiliate",
+      "primary_email": "pranjali@adzealousmedia.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "pranjali@adzealousmedia.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 88,
+      "company_name": "SCALE.IO TECHNOLOGIES PRIVATE LIMITED",
+      "type": "Affiliate",
+      "primary_email": "bob@scaleio.io",
+      "contacts": [
+        {
+          "name": "",
+          "email": "bob@scaleio.io"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 89,
+      "company_name": "Avow",
+      "type": "Affiliate",
+      "primary_email": "krupal.Nayak@avow.tech",
+      "contacts": [
+        {
+          "name": "",
+          "email": "krupal.Nayak@avow.tech"
+        }
+      ],
+      "website": "avow.tech",
+      "services": [
+        "OEM Advertising",
+        "Pre-Install Campaigns",
+        "App Discovery",
+        "Mobile User Acquisition"
+      ],
+      "industries": [
+        "Gaming",
+        "E-commerce",
+        "Finance & BFSI",
+        "Entertainment",
+        "Utilities"
+      ],
+      "models": [
+        "CPI",
+        "CPA"
+      ],
+      "description": "OEM advertising specialist — works with device manufacturers for pre-install & app discovery campaigns.",
+      "tags": [
+        "OEM",
+        "Pre-Install",
+        "App Discovery",
+        "Mobile",
+        "Exclusive"
+      ]
+    },
+    {
+      "sr_no": 90,
+      "company_name": "Sandbox",
+      "type": "Affiliate",
+      "primary_email": "Prakash@sandbox-ads.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "Prakash@sandbox-ads.com"
+        }
+      ],
+      "website": "sandbox-ads.com",
+      "services": [
+        "Mobile Advertising",
+        "User Acquisition",
+        "Performance Marketing"
+      ],
+      "industries": [
+        "Gaming",
+        "E-commerce",
+        "Finance & BFSI",
+        "Entertainment"
+      ],
+      "models": [
+        "CPI",
+        "CPA",
+        "CPM"
+      ],
+      "description": "Mobile advertising network with focus on gaming and app user acquisition.",
+      "tags": [
+        "Mobile",
+        "Gaming",
+        "User Acquisition",
+        "App Installs"
+      ]
+    },
+    {
+      "sr_no": 91,
+      "company_name": "Vertoz",
+      "type": "Affiliate",
+      "primary_email": "Gaurav.modi@vertoz.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "Gaurav.modi@vertoz.com"
+        }
+      ],
+      "website": "vertoz.com",
+      "services": [
+        "Programmatic Advertising",
+        "Ad Exchange",
+        "Publisher Monetization",
+        "Performance Marketing"
+      ],
+      "industries": [
+        "E-commerce",
+        "Finance & BFSI",
+        "Gaming",
+        "Entertainment",
+        "Travel"
+      ],
+      "models": [
+        "CPM",
+        "CPC",
+        "CPA",
+        "CPI"
+      ],
+      "description": "Programmatic advertising platform listed on Indian markets. DSP + SSP stack, 90% revenue from international markets.",
+      "tags": [
+        "Programmatic",
+        "Ad Exchange",
+        "Listed",
+        "Global",
+        "DSP/SSP"
+      ]
+    },
+    {
+      "sr_no": 92,
+      "company_name": "Drim",
+      "type": "Affiliate",
+      "primary_email": "Gupta.h@drim.one",
+      "contacts": [
+        {
+          "name": "",
+          "email": "Gupta.h@drim.one"
+        }
+      ],
+      "website": "drim.one",
+      "services": [
+        "Influencer Marketing",
+        "Content Monetization",
+        "Affiliate Marketing"
+      ],
+      "industries": [
+        "E-commerce",
+        "FMCG",
+        "Finance & BFSI",
+        "Travel"
+      ],
+      "models": [
+        "CPS",
+        "CPA",
+        "CPL"
+      ],
+      "description": "Influencer-affiliate hybrid platform connecting brands with content creators for performance-based campaigns.",
+      "tags": [
+        "Influencer",
+        "Content",
+        "Performance",
+        "D2C"
+      ]
+    },
+    {
+      "sr_no": 93,
+      "company_name": "Adsphire",
+      "type": "Affiliate",
+      "primary_email": "sudip@adsphire.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "sudip@adsphire.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 94,
+      "company_name": "Admitad",
+      "type": "Affiliate",
+      "primary_email": "P.singh@admitad.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "P.singh@admitad.com"
+        }
+      ],
+      "website": "admitad.com",
+      "services": [
+        "Affiliate Network",
+        "Partner Marketing",
+        "Content Monetization",
+        "Cashback & Loyalty",
+        "Influencer Marketing"
+      ],
+      "industries": [
+        "E-commerce",
+        "Finance & BFSI",
+        "Travel",
+        "Gaming",
+        "Digital Services"
+      ],
+      "models": [
+        "CPA",
+        "CPL",
+        "CPS"
+      ],
+      "description": "Global affiliate network with 100K+ publishers & 30K+ advertisers. Strong in e-commerce, finance, travel.",
+      "tags": [
+        "Global Network",
+        "Multi-Vertical",
+        "Cashback",
+        "Content",
+        "Influencer"
+      ]
+    },
+    {
+      "sr_no": 95,
+      "company_name": "3dot14",
+      "type": "Affiliate",
+      "primary_email": "rowland.dominic@3dot14.co",
+      "contacts": [
+        {
+          "name": "",
+          "email": "rowland.dominic@3dot14.co"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 96,
+      "company_name": "Adcounty",
+      "type": "Affiliate",
+      "primary_email": "vaishakh@adcountymedia.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "vaishakh@adcountymedia.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 97,
+      "company_name": "Adinterest",
+      "type": "Affiliate",
+      "primary_email": "vatsal@adinterest.co",
+      "contacts": [
+        {
+          "name": "",
+          "email": "vatsal@adinterest.co"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 98,
+      "company_name": "Adflourish",
+      "type": "Affiliate",
+      "primary_email": "pragati.shukla@adsflourish.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "pragati.shukla@adsflourish.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 99,
+      "company_name": "Adsplay",
+      "type": "Affiliate",
+      "primary_email": "ankur@adsplay.in",
+      "contacts": [
+        {
+          "name": "",
+          "email": "ankur@adsplay.in"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 100,
+      "company_name": "AFFLE (INDIA) LIMITED",
+      "type": "Platform Integrators",
+      "primary_email": "deepak.s@appnext.com",
+      "contacts": [
+        {
+          "name": "Deepak Singh",
+          "email": "deepak.s@appnext.com"
+        }
+      ],
+      "website": "affle.com",
+      "services": [
+        "Mobile Programmatic Platform",
+        "User Acquisition at Scale",
+        "CTV Advertising",
+        "AI Creative Optimization",
+        "Fraud Detection"
+      ],
+      "industries": [
+        "E-commerce",
+        "Finance & BFSI",
+        "Gaming",
+        "Travel",
+        "FMCG",
+        "Telecom",
+        "Automotive"
+      ],
+      "models": [
+        "CPCU",
+        "CPI",
+        "CPA"
+      ],
+      "description": "India's only listed global AdTech company. Proprietary consumer intelligence platform. 3.2B connected devices. Strong CPCU model with low fraud.",
+      "tags": [
+        "Listed Company",
+        "Mobile",
+        "CTV",
+        "AI",
+        "Fraud-Free",
+        "Global Scale"
+      ]
+    },
+    {
+      "sr_no": 101,
+      "company_name": "Inuxu Digital Media Technologies Private Limited (ADGEBRA)",
+      "type": "Platform Integrators",
+      "primary_email": "zuzer@inuxu.media",
+      "contacts": [
+        {
+          "name": "Zuzer Pardawala",
+          "email": "zuzer@inuxu.media"
+        }
+      ],
+      "website": "inuxu.media",
+      "services": [
+        "Native Advertising",
+        "Video Advertising",
+        "Rich Media",
+        "Vernacular Advertising",
+        "Publisher Monetization"
+      ],
+      "industries": [
+        "E-commerce",
+        "FMCG",
+        "Finance & BFSI",
+        "Automotive",
+        "Telecom"
+      ],
+      "models": [
+        "CPM",
+        "CPC",
+        "CPV"
+      ],
+      "description": "Native & video ad platform (Adgebra) specializing in India's regional/vernacular digital ecosystem. 250M+ audience, 5B monthly impressions.",
+      "tags": [
+        "Native",
+        "Video",
+        "Vernacular",
+        "India Languages",
+        "Publisher Monetization"
+      ]
+    },
+    {
+      "sr_no": 102,
+      "company_name": "BIG TREE ENTERTAINMENT PVT LTD (BOOK MY SHOW)",
+      "type": "Publisher",
+      "primary_email": "vedant.parab@bookmyshow.com",
+      "contacts": [
+        {
+          "name": "Vedant Parab",
+          "email": "vedant.parab@bookmyshow.com"
+        }
+      ],
+      "website": "bookmyshow.com",
+      "services": [
+        "Entertainment Advertising",
+        "Contextual Ads",
+        "Event Sponsorship",
+        "Audience Monetization"
+      ],
+      "industries": [
+        "Entertainment",
+        "FMCG",
+        "Automotive",
+        "E-commerce",
+        "Finance & BFSI"
+      ],
+      "models": [
+        "CPM",
+        "Sponsorship",
+        "CPC"
+      ],
+      "description": "India's #1 ticketing platform. Premium publisher with highly engaged entertainment, sports & live event audiences.",
+      "tags": [
+        "Premium Publisher",
+        "Entertainment",
+        "Events",
+        "Brand Safe",
+        "Contextual"
+      ]
+    },
+    {
+      "sr_no": 103,
+      "company_name": "DAILYRAVEN TECHNOLOGIES PRIVATE LIMITED (TRADE BRAINS)",
+      "type": "Publisher",
+      "primary_email": "mohammed.mazhar@tradebrains.in",
+      "contacts": [
+        {
+          "name": "",
+          "email": "mohammed.mazhar@tradebrains.in"
+        }
+      ],
+      "website": "tradebrains.in",
+      "services": [
+        "Finance Content Advertising",
+        "Stock/Investing Audience",
+        "Display & Native Ads"
+      ],
+      "industries": [
+        "Finance & BFSI",
+        "EdTech",
+        "Insurance",
+        "Crypto"
+      ],
+      "models": [
+        "CPM",
+        "CPC",
+        "Native"
+      ],
+      "description": "India's leading finance content & stock market education platform. High-value finance-intent audience.",
+      "tags": [
+        "Finance Publisher",
+        "Stock Market",
+        "High-Intent",
+        "EdTech Finance"
+      ]
+    },
+    {
+      "sr_no": 104,
+      "company_name": "IPOWALA",
+      "type": "Publisher",
+      "primary_email": "ipowala@hotmail.com",
+      "contacts": [
+        {
+          "name": "IPOWala .IN",
+          "email": "ipowala@hotmail.com"
+        }
+      ],
+      "website": "ipowala.in",
+      "services": [
+        "IPO & Finance Audience",
+        "Financial Content Advertising"
+      ],
+      "industries": [
+        "Finance & BFSI",
+        "Insurance",
+        "Crypto"
+      ],
+      "models": [
+        "CPC",
+        "CPL",
+        "Display"
+      ],
+      "description": "Niche finance publisher focused on IPO, stock market & investment audience.",
+      "tags": [
+        "Finance Publisher",
+        "IPO",
+        "Investing",
+        "Niche"
+      ]
+    },
+    {
+      "sr_no": 105,
+      "company_name": "LOYALTY SOLUTIONS & RESEARCH PRIVATE LIMITED (PAYBACK)",
+      "type": "Publisher",
+      "primary_email": "shreyas.shah@zillionrewards.in",
+      "contacts": [
+        {
+          "name": "",
+          "email": "shreyas.shah@zillionrewards.in"
+        }
+      ],
+      "website": "payback.in",
+      "services": [
+        "Loyalty & Rewards Marketing",
+        "Cashback Campaigns",
+        "Co-branded Offers"
+      ],
+      "industries": [
+        "E-commerce",
+        "Finance & BFSI",
+        "Travel",
+        "Fuel & Retail",
+        "FMCG"
+      ],
+      "models": [
+        "CPA",
+        "CPL",
+        "Revenue Share"
+      ],
+      "description": "India's largest multi-brand loyalty program. 100M+ members. High transactional purchase intent audience.",
+      "tags": [
+        "Loyalty",
+        "Rewards",
+        "Cashback",
+        "High-Intent",
+        "Multi-brand"
+      ]
+    },
+    {
+      "sr_no": 106,
+      "company_name": "START INDIA PVT LTD. (HOTSTAR)",
+      "type": "Publisher",
+      "primary_email": "pritesh.chitte@hotstar.com",
+      "contacts": [
+        {
+          "name": "Pritesh Chitte",
+          "email": "pritesh.chitte@hotstar.com"
+        }
+      ],
+      "website": "hotstar.com",
+      "services": [
+        "OTT Video Advertising",
+        "Live Sports Advertising",
+        "Premium Audience Targeting"
+      ],
+      "industries": [
+        "FMCG",
+        "E-commerce",
+        "Automotive",
+        "Finance & BFSI",
+        "Entertainment"
+      ],
+      "models": [
+        "CPM",
+        "CPV",
+        "Sponsorship"
+      ],
+      "description": "India's #1 OTT platform. Premium video + live cricket/sports advertising at massive scale.",
+      "tags": [
+        "OTT",
+        "Video",
+        "Premium Publisher",
+        "Sports",
+        "Live Streaming"
+      ]
+    },
+    {
+      "sr_no": 107,
+      "company_name": "OUTLOOK PUBLISHING (INDIA) PRIVATE LIMITED",
+      "type": "Publisher",
+      "primary_email": "nishant.gupta@outlookindia.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "nishant.gupta@outlookindia.com"
+        }
+      ],
+      "website": "outlookindia.com",
+      "services": [
+        "Display Advertising",
+        "Native Advertising",
+        "Branded Content",
+        "Newsletter Advertising"
+      ],
+      "industries": [
+        "Finance & BFSI",
+        "Automotive",
+        "FMCG",
+        "Real Estate",
+        "Travel"
+      ],
+      "models": [
+        "CPM",
+        "Sponsorship",
+        "Native"
+      ],
+      "description": "Premium news & magazine publisher. Credible brand-safe environment for display, native, and branded content.",
+      "tags": [
+        "Premium Publisher",
+        "News",
+        "Branded Content",
+        "Brand Safety"
+      ]
+    },
+    {
+      "sr_no": 108,
+      "company_name": "PHONEPE PRIVATE LIMITED",
+      "type": "Publisher",
+      "primary_email": "harivardhana.s@phonepe.com",
+      "contacts": [
+        {
+          "name": "Harivardhana S",
+          "email": "harivardhana.s@phonepe.com"
+        }
+      ],
+      "website": "phonepe.com",
+      "services": [
+        "In-App Advertising",
+        "Financial Audience Targeting",
+        "Transaction-Based Targeting"
+      ],
+      "industries": [
+        "Finance & BFSI",
+        "E-commerce",
+        "FMCG",
+        "Telecom",
+        "Insurance"
+      ],
+      "models": [
+        "CPM",
+        "CPC"
+      ],
+      "description": "India's leading UPI payments app with 500M+ users. High-intent financial audience with transaction data.",
+      "tags": [
+        "Fintech Publisher",
+        "UPI",
+        "Payments Audience",
+        "High-Intent",
+        "India"
+      ]
+    },
+    {
+      "sr_no": 109,
+      "company_name": "Sobek Auto India Private Limited (OLX)",
+      "type": "Publisher",
+      "primary_email": "sonal.jain@olx.com",
+      "contacts": [
+        {
+          "name": "Sonal Jain",
+          "email": "sonal.jain@olx.com"
+        }
+      ],
+      "website": "olx.in",
+      "services": [
+        "Classifieds Advertising",
+        "Real Estate Advertising",
+        "Auto Advertising",
+        "Display Ads"
+      ],
+      "industries": [
+        "Real Estate",
+        "Automotive",
+        "FMCG",
+        "Finance & BFSI"
+      ],
+      "models": [
+        "CPC",
+        "CPM",
+        "Listing Ads"
+      ],
+      "description": "India's largest online classifieds marketplace. Strong for auto, real estate, and consumer goods verticals.",
+      "tags": [
+        "Classifieds",
+        "Real Estate",
+        "Auto",
+        "Marketplace",
+        "India"
+      ]
+    },
+    {
+      "sr_no": 110,
+      "company_name": "FRODOH",
+      "type": "Publisher",
+      "primary_email": "vaidehi.desai@frodoh.world",
+      "contacts": [
+        {
+          "name": "",
+          "email": "vaidehi.desai@frodoh.world"
+        }
+      ],
+      "website": "frodoh.world",
+      "services": [
+        "Interactive Advertising",
+        "Gamified Advertising",
+        "Brand Engagement"
+      ],
+      "industries": [
+        "FMCG",
+        "Gaming",
+        "E-commerce",
+        "Finance & BFSI"
+      ],
+      "models": [
+        "CPE",
+        "CPM",
+        "CPC"
+      ],
+      "description": "Gamification and interactive advertising platform. Drives deep brand engagement through rewards and interactive formats.",
+      "tags": [
+        "Gamification",
+        "Interactive",
+        "Engagement",
+        "Rewards"
+      ]
+    },
+    {
+      "sr_no": 111,
+      "company_name": "NAPPTIX",
+      "type": "Publisher",
+      "primary_email": "kamlesh@napptix.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "kamlesh@napptix.com"
+        },
+        {
+          "name": "",
+          "email": "kinjal@napptix.com"
+        }
+      ],
+      "website": "napptix.com",
+      "services": [
+        "Mobile App Advertising",
+        "Publisher Monetization",
+        "In-App Ads"
+      ],
+      "industries": [
+        "Gaming",
+        "E-commerce",
+        "Finance & BFSI",
+        "Entertainment"
+      ],
+      "models": [
+        "CPM",
+        "CPC",
+        "CPI"
+      ],
+      "description": "Mobile app-focused publisher and monetization network for in-app advertising.",
+      "tags": [
+        "In-App",
+        "Mobile Publisher",
+        "Monetization",
+        "App Network"
+      ]
+    },
+    {
+      "sr_no": 112,
+      "company_name": "Smile Internet Technologies Private Limited (Tyroo(Outbrain))",
+      "type": "Publisher",
+      "primary_email": "manish.p@tyroo.com",
+      "contacts": [
+        {
+          "name": "Manish K Pandey",
+          "email": "manish.p@tyroo.com"
+        }
+      ],
+      "website": "tyroo.com",
+      "services": [
+        "Native Content Recommendation",
+        "Content Discovery",
+        "Display Advertising"
+      ],
+      "industries": [
+        "E-commerce",
+        "Finance & BFSI",
+        "Travel",
+        "FMCG",
+        "EdTech"
+      ],
+      "models": [
+        "CPC",
+        "CPM",
+        "CPA"
+      ],
+      "description": "India's leading content recommendation & native advertising platform (Outbrain partner).",
+      "tags": [
+        "Native",
+        "Content Discovery",
+        "Recommendation",
+        "Premium Sites"
+      ]
+    },
+    {
+      "sr_no": 113,
+      "company_name": "TRUECALLER",
+      "type": "Publisher",
+      "primary_email": "bhavin.reshamwala@truecaller.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "bhavin.reshamwala@truecaller.com"
+        }
+      ],
+      "website": "truecaller.com",
+      "services": [
+        "In-App Advertising",
+        "Caller Screen Ads",
+        "Audience Data",
+        "Native Ads"
+      ],
+      "industries": [
+        "Finance & BFSI",
+        "Telecom",
+        "FMCG",
+        "E-commerce",
+        "Automotive"
+      ],
+      "models": [
+        "CPM",
+        "CPC",
+        "CPA"
+      ],
+      "description": "500M+ users globally, 300M+ in India. Unique caller-screen and in-app ad formats with deep user identity data.",
+      "tags": [
+        "Premium Publisher",
+        "Caller Ads",
+        "Identity Data",
+        "Scale",
+        "India"
+      ]
+    },
+    {
+      "sr_no": 114,
+      "company_name": "TIMES INTERNET LIMITED",
+      "type": "Publisher",
+      "primary_email": "utpal.vatsa@timesinternet.in",
+      "contacts": [
+        {
+          "name": "",
+          "email": "utpal.vatsa@timesinternet.in"
+        },
+        {
+          "name": "",
+          "email": "varun.pasaladi@timesinternet.in"
+        }
+      ],
+      "website": "timesinternet.in",
+      "services": [
+        "Premium Publisher Network",
+        "Native Advertising",
+        "Display Advertising",
+        "Video Advertising"
+      ],
+      "industries": [
+        "E-commerce",
+        "Finance & BFSI",
+        "Automotive",
+        "FMCG",
+        "Travel",
+        "Real Estate"
+      ],
+      "models": [
+        "CPM",
+        "CPC",
+        "Sponsorship"
+      ],
+      "description": "India's largest digital media company (ET, TOI, Cricbuzz etc.). Premium brand-safe publisher inventory at massive India scale.",
+      "tags": [
+        "Premium Publisher",
+        "News",
+        "Native",
+        "Brand Safety",
+        "India Scale"
+      ]
+    },
+    {
+      "sr_no": 115,
+      "company_name": "JIO PLATFORMS LIMITED",
+      "type": "Publisher",
+      "primary_email": "chirag8.sharma@ril.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "chirag8.sharma@ril.com"
+        },
+        {
+          "name": "",
+          "email": "sanjana.b@ril.com"
+        },
+        {
+          "name": "",
+          "email": "gaurav48.sharma@ril.com"
+        }
+      ],
+      "website": "jio.com",
+      "services": [
+        "Telecom Ad Network",
+        "OTT Advertising",
+        "In-App Advertising",
+        "Massive Scale Audience"
+      ],
+      "industries": [
+        "E-commerce",
+        "Finance & BFSI",
+        "FMCG",
+        "Automotive",
+        "Telecom",
+        "Entertainment"
+      ],
+      "models": [
+        "CPM",
+        "CPC",
+        "Sponsorship"
+      ],
+      "description": "India's largest telecom with 450M+ subscribers. JioTV, JioCinema, JioSaavn — massive OTT + app publisher.",
+      "tags": [
+        "Telecom",
+        "OTT",
+        "Massive Scale",
+        "Premium Publisher",
+        "India #1"
+      ]
+    },
+    {
+      "sr_no": 116,
+      "company_name": "Adstalkmedia",
+      "type": "Affiliate",
+      "primary_email": "manpreet.k@adstalkmedia.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "manpreet.k@adstalkmedia.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 117,
+      "company_name": "Advoltdigital",
+      "type": "Affiliate",
+      "primary_email": "shivam@advoltdigital.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "shivam@advoltdigital.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 118,
+      "company_name": "Adzealousmedia",
+      "type": "Affiliate",
+      "primary_email": "Simran@adzealousmedia.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "Simran@adzealousmedia.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 119,
+      "company_name": "Appmontize",
+      "type": "Affiliate",
+      "primary_email": "rahul@appmontize.co.in",
+      "contacts": [
+        {
+          "name": "",
+          "email": "rahul@appmontize.co.in"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 120,
+      "company_name": "Automatetech",
+      "type": "Affiliate",
+      "primary_email": "kunal.m@automatetech.io",
+      "contacts": [
+        {
+          "name": "",
+          "email": "kunal.m@automatetech.io"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 121,
+      "company_name": "Collectcent",
+      "type": "Affiliate",
+      "primary_email": "anima@collectcent.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "anima@collectcent.com"
+        }
+      ],
+      "website": "collectcent.com",
+      "services": [
+        "Affiliate Network",
+        "Lead Generation",
+        "App Installs",
+        "CPA Campaigns"
+      ],
+      "industries": [
+        "Finance & BFSI",
+        "E-commerce",
+        "Travel",
+        "EdTech",
+        "Utilities"
+      ],
+      "models": [
+        "CPA",
+        "CPL",
+        "CPI"
+      ],
+      "description": "Performance-based affiliate network with strong Indian publisher base. Focus on finance, e-commerce, and lead generation.",
+      "tags": [
+        "Affiliate Network",
+        "Lead Gen",
+        "India",
+        "Performance"
+      ]
+    },
+    {
+      "sr_no": 122,
+      "company_name": "Creditkaro",
+      "type": "Affiliate",
+      "primary_email": "shikha.gairola@creditkaro.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "shikha.gairola@creditkaro.com"
+        }
+      ],
+      "website": "creditkaro.com",
+      "services": [
+        "Cashback & Rewards Marketing",
+        "Coupon Affiliate Marketing",
+        "Finance Lead Generation"
+      ],
+      "industries": [
+        "Finance & BFSI",
+        "E-commerce",
+        "Insurance",
+        "EdTech"
+      ],
+      "models": [
+        "CPA",
+        "CPL",
+        "Revenue Share"
+      ],
+      "description": "Cashback and coupons affiliate platform with dedicated finance vertical. High-intent transactional users.",
+      "tags": [
+        "Cashback",
+        "Coupon",
+        "Finance",
+        "High-Intent",
+        "India"
+      ]
+    },
+    {
+      "sr_no": 123,
+      "company_name": "Digirovers",
+      "type": "Affiliate",
+      "primary_email": "abhishek.singh@digirovers.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "abhishek.singh@digirovers.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 124,
+      "company_name": "Globalemedia.",
+      "type": "Affiliate",
+      "primary_email": "anita.pundir@globalemedia.net",
+      "contacts": [
+        {
+          "name": "",
+          "email": "anita.pundir@globalemedia.net"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 125,
+      "company_name": "Hasmind.",
+      "type": "Affiliate",
+      "primary_email": "ajay@hasmind.net",
+      "contacts": [
+        {
+          "name": "",
+          "email": "ajay@hasmind.net"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 126,
+      "company_name": "Intellectads",
+      "type": "Affiliate",
+      "primary_email": "meha@intellectads.co.in",
+      "contacts": [
+        {
+          "name": "",
+          "email": "meha@intellectads.co.in"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 127,
+      "company_name": "Mashrise",
+      "type": "Affiliate",
+      "primary_email": "tithi@mashrise.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "tithi@mashrise.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 128,
+      "company_name": "Mobavenue",
+      "type": "Affiliate",
+      "primary_email": "sunny@mobavenue.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "sunny@mobavenue.com"
+        }
+      ],
+      "website": "mobavenue.com",
+      "services": [
+        "Mobile Performance Marketing",
+        "User Acquisition",
+        "App Monetization",
+        "Programmatic"
+      ],
+      "industries": [
+        "E-commerce",
+        "Gaming",
+        "Finance & BFSI",
+        "EdTech",
+        "Travel"
+      ],
+      "models": [
+        "CPI",
+        "CPA",
+        "CPM"
+      ],
+      "description": "Mobile performance marketing platform specializing in user acquisition and app monetization across India and emerging markets.",
+      "tags": [
+        "Mobile",
+        "Performance",
+        "User Acquisition",
+        "India"
+      ]
+    },
+    {
+      "sr_no": 129,
+      "company_name": "Spectrumdigital",
+      "type": "Affiliate",
+      "primary_email": "himanshu@spectrumdigital.in",
+      "contacts": [
+        {
+          "name": "",
+          "email": "himanshu@spectrumdigital.in"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 130,
+      "company_name": "Strongmetrics",
+      "type": "Affiliate",
+      "primary_email": "yuvraj@strongmetrics.io",
+      "contacts": [
+        {
+          "name": "",
+          "email": "yuvraj@strongmetrics.io"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 131,
+      "company_name": "Tat-Adz",
+      "type": "Affiliate",
+      "primary_email": "amit@tat-adz.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "amit@tat-adz.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 132,
+      "company_name": "Trackbackmedia",
+      "type": "Affiliate",
+      "primary_email": "priyanka@trackbackmedia.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "priyanka@trackbackmedia.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 133,
+      "company_name": "Vserv",
+      "type": "Affiliate",
+      "primary_email": "shweta.c@vserv.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "shweta.c@vserv.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 134,
+      "company_name": "Wwadz",
+      "type": "Affiliate",
+      "primary_email": "kartik@wwadz.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "kartik@wwadz.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 135,
+      "company_name": "Affinity",
+      "type": "Affiliate",
+      "primary_email": "vasundhra.sharma@affinity.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "vasundhra.sharma@affinity.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 136,
+      "company_name": "Branch",
+      "type": "Affiliate",
+      "primary_email": "nikhil.manchanda@branch.io",
+      "contacts": [
+        {
+          "name": "",
+          "email": "nikhil.manchanda@branch.io"
+        }
+      ],
+      "website": "branch.io",
+      "services": [
+        "Mobile Attribution",
+        "Deep Linking",
+        "Cross-Device Tracking",
+        "Mobile Measurement Partner"
+      ],
+      "industries": [
+        "E-commerce",
+        "Finance & BFSI",
+        "Travel",
+        "Gaming",
+        "EdTech",
+        "Entertainment"
+      ],
+      "models": [
+        "SaaS / MMP"
+      ],
+      "description": "Leading Mobile Measurement Partner (MMP). Cross-device attribution, deep linking, and user journey analytics.",
+      "tags": [
+        "MMP",
+        "Attribution",
+        "Deep Linking",
+        "Measurement",
+        "SDK"
+      ]
+    },
+    {
+      "sr_no": 137,
+      "company_name": "Appnext",
+      "type": "Affiliate",
+      "primary_email": "smit.g@appnext.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "smit.g@appnext.com"
+        }
+      ],
+      "website": "appnext.com",
+      "services": [
+        "App Discovery Advertising",
+        "OEM & Telco Integration",
+        "Contextual App Recommendations"
+      ],
+      "industries": [
+        "Gaming",
+        "E-commerce",
+        "Finance & BFSI",
+        "Entertainment",
+        "Utilities"
+      ],
+      "models": [
+        "CPI",
+        "CPA"
+      ],
+      "description": "App discovery platform via OEM/Telco partnerships. Delivers app recommendations at device setup level.",
+      "tags": [
+        "App Discovery",
+        "OEM",
+        "Telco",
+        "User Acquisition",
+        "Contextual"
+      ]
+    },
+    {
+      "sr_no": 138,
+      "company_name": "Prodigital.Mobi",
+      "type": "Affiliate",
+      "primary_email": "shivangi@prodigital.mobi",
+      "contacts": [
+        {
+          "name": "",
+          "email": "shivangi@prodigital.mobi"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 139,
+      "company_name": "Ad-Piece",
+      "type": "Affiliate",
+      "primary_email": "vivian.chen@ad-piece.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "vivian.chen@ad-piece.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 140,
+      "company_name": "Thediginature",
+      "type": "Affiliate",
+      "primary_email": "mohit@thediginature.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "mohit@thediginature.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 141,
+      "company_name": "Bidkiic",
+      "type": "Affiliate",
+      "primary_email": "parth@bidkinetic.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "parth@bidkinetic.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 142,
+      "company_name": "Prudentads",
+      "type": "Affiliate",
+      "primary_email": "akshaydeep.singh@prudentads.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "akshaydeep.singh@prudentads.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 143,
+      "company_name": "13Digits",
+      "type": "Affiliate",
+      "primary_email": "kajol@13digits.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "kajol@13digits.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 144,
+      "company_name": "Acquaad",
+      "type": "Affiliate",
+      "primary_email": "bharti@acquaad.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "bharti@acquaad.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 145,
+      "company_name": "Ad2Click",
+      "type": "Affiliate",
+      "primary_email": "shilpa.singh@ad2click.in",
+      "contacts": [
+        {
+          "name": "",
+          "email": "shilpa.singh@ad2click.in"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 146,
+      "company_name": "Adobrain",
+      "type": "Affiliate",
+      "primary_email": "chandan@adobrain.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "chandan@adobrain.com"
+        }
+      ],
+      "website": "adobrain.com",
+      "services": [
+        "Performance Marketing",
+        "Digital Advertising",
+        "Lead Generation"
+      ],
+      "industries": [
+        "E-commerce",
+        "Finance & BFSI",
+        "Travel"
+      ],
+      "models": [
+        "CPA",
+        "CPL",
+        "CPM"
+      ],
+      "description": "Digital advertising and performance marketing agency with multi-vertical capabilities.",
+      "tags": [
+        "Performance",
+        "Lead Gen",
+        "Multi-Vertical"
+      ]
+    },
+    {
+      "sr_no": 147,
+      "company_name": "Adscholars",
+      "type": "Affiliate",
+      "primary_email": "nishigandha@adscholars.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "nishigandha@adscholars.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 148,
+      "company_name": "Adstool",
+      "type": "Affiliate",
+      "primary_email": "ajay@adstool.in",
+      "contacts": [
+        {
+          "name": "",
+          "email": "ajay@adstool.in"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 149,
+      "company_name": "Adstreetdigital",
+      "type": "Affiliate",
+      "primary_email": "vijay.b@adstreetdigital.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "vijay.b@adstreetdigital.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 150,
+      "company_name": "Adtriumph",
+      "type": "Affiliate",
+      "primary_email": "prashant.singh@adtriumph.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "prashant.singh@adtriumph.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 151,
+      "company_name": "Adworks365",
+      "type": "Affiliate",
+      "primary_email": "kapil@adworks365.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "kapil@adworks365.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 152,
+      "company_name": "Adzarena",
+      "type": "Affiliate",
+      "primary_email": "mike@adzarena.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "mike@adzarena.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 153,
+      "company_name": "Adzcorner",
+      "type": "Affiliate",
+      "primary_email": "aryan.sharma@adzcorner.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "aryan.sharma@adzcorner.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 154,
+      "company_name": "Affilijunction",
+      "type": "Affiliate",
+      "primary_email": "harjot@affilijunction.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "harjot@affilijunction.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 155,
+      "company_name": "Affnads",
+      "type": "Affiliate",
+      "primary_email": "shraddha@affnads.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "shraddha@affnads.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 156,
+      "company_name": "Antiekdigital",
+      "type": "Affiliate",
+      "primary_email": "aman.s@antiekdigital.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "aman.s@antiekdigital.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 157,
+      "company_name": "Appup.Ai",
+      "type": "Affiliate",
+      "primary_email": "monika@appup.ai",
+      "contacts": [
+        {
+          "name": "",
+          "email": "monika@appup.ai"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 158,
+      "company_name": "Axponent",
+      "type": "Affiliate",
+      "primary_email": "ayush@axponent.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "ayush@axponent.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 159,
+      "company_name": "Blendai.Digital",
+      "type": "Affiliate",
+      "primary_email": "anju.chauhan@blendai.digital",
+      "contacts": [
+        {
+          "name": "",
+          "email": "anju.chauhan@blendai.digital"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 160,
+      "company_name": "Click2Commission",
+      "type": "Affiliate",
+      "primary_email": "rashi@click2commission.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "rashi@click2commission.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 161,
+      "company_name": "Clickonik",
+      "type": "Affiliate",
+      "primary_email": "kishan.kumar@clickonik.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "kishan.kumar@clickonik.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 162,
+      "company_name": "Clovenmedia",
+      "type": "Affiliate",
+      "primary_email": "Shrey@clovenmedia.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "Shrey@clovenmedia.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 163,
+      "company_name": "Digitalshoutouts",
+      "type": "Affiliate",
+      "primary_email": "monika.sharma@digitalshoutouts.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "monika.sharma@digitalshoutouts.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 164,
+      "company_name": "Digital360Tech",
+      "type": "Affiliate",
+      "primary_email": "anuj@digital360tech.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "anuj@digital360tech.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 165,
+      "company_name": "Goldenbeaconmedia",
+      "type": "Affiliate",
+      "primary_email": "sales@goldenbeaconmedia.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "sales@goldenbeaconmedia.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 166,
+      "company_name": "Highadsmedia",
+      "type": "Affiliate",
+      "primary_email": "shalu@highadsmedia.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "shalu@highadsmedia.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 167,
+      "company_name": "Icubeswire",
+      "type": "Affiliate",
+      "primary_email": "chandrakant.jha@icubeswire.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "chandrakant.jha@icubeswire.com"
+        }
+      ],
+      "website": "icubeswire.com",
+      "services": [
+        "Performance Marketing",
+        "Programmatic",
+        "Influencer Marketing",
+        "Social Media Advertising"
+      ],
+      "industries": [
+        "E-commerce",
+        "Finance & BFSI",
+        "Travel",
+        "Telecom",
+        "FMCG"
+      ],
+      "models": [
+        "CPA",
+        "CPM",
+        "CPI",
+        "CPL"
+      ],
+      "description": "Full-funnel digital marketing agency with programmatic, influencer, and social. One of India's top AdTech companies.",
+      "tags": [
+        "Full-Funnel",
+        "Programmatic",
+        "Influencer",
+        "Social",
+        "India"
+      ]
+    },
+    {
+      "sr_no": 168,
+      "company_name": "Inmobi",
+      "type": "Affiliate",
+      "primary_email": "gaurav.jain1@inmobi.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "gaurav.jain1@inmobi.com"
+        }
+      ],
+      "website": "inmobi.com",
+      "services": [
+        "Mobile Advertising Network",
+        "Programmatic",
+        "User Acquisition",
+        "Content & OEM Advertising"
+      ],
+      "industries": [
+        "E-commerce",
+        "Gaming",
+        "Finance & BFSI",
+        "Entertainment",
+        "Automotive",
+        "Travel"
+      ],
+      "models": [
+        "CPM",
+        "CPC",
+        "CPI",
+        "CPA"
+      ],
+      "description": "Global mobile advertising leader with massive publisher network. Strong DSP capabilities across in-app, video, native and programmatic.",
+      "tags": [
+        "Mobile",
+        "Global",
+        "DSP",
+        "Programmatic",
+        "Scale"
+      ]
+    },
+    {
+      "sr_no": 169,
+      "company_name": "Key2Plusmedia",
+      "type": "Affiliate",
+      "primary_email": "shweta@key2plusmedia.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "shweta@key2plusmedia.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 170,
+      "company_name": "Kurasaads",
+      "type": "Affiliate",
+      "primary_email": "Leo@kurasaads.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "Leo@kurasaads.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 171,
+      "company_name": "Mobupps",
+      "type": "Affiliate",
+      "primary_email": "shivam@mobupps.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "shivam@mobupps.com"
+        }
+      ],
+      "website": "mobupps.com",
+      "services": [
+        "Mobile User Acquisition",
+        "Programmatic Advertising",
+        "App Monetization",
+        "Retargeting",
+        "CTV Advertising"
+      ],
+      "industries": [
+        "E-commerce",
+        "Gaming",
+        "Finance & BFSI",
+        "Entertainment",
+        "Travel",
+        "Health & Beauty",
+        "Education"
+      ],
+      "models": [
+        "CPI",
+        "CPA",
+        "CPM",
+        "CPC",
+        "CPL"
+      ],
+      "description": "Global mobile ad-tech platform with DSP/SSP, AI-driven targeting, 10K+ publishers. Strong in performance & programmatic.",
+      "tags": [
+        "Mobile",
+        "Programmatic",
+        "DSP",
+        "SSP",
+        "Anti-Fraud",
+        "Global"
+      ]
+    },
+    {
+      "sr_no": 172,
+      "company_name": "Moizedeal",
+      "type": "Affiliate",
+      "primary_email": "subham@monetizedeal.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "subham@monetizedeal.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 173,
+      "company_name": "Setgomedia",
+      "type": "Affiliate",
+      "primary_email": "nsg.supply@netsetgomedia.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "nsg.supply@netsetgomedia.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 174,
+      "company_name": "Notionm",
+      "type": "Affiliate",
+      "primary_email": "amit@notionm.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "amit@notionm.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 175,
+      "company_name": "Oximobimedia",
+      "type": "Affiliate",
+      "primary_email": "sujata@oximobimedia.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "sujata@oximobimedia.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 176,
+      "company_name": "Pixelmintmedia",
+      "type": "Affiliate",
+      "primary_email": "shalini@pixelmintmedia.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "shalini@pixelmintmedia.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 177,
+      "company_name": "Plaunchpad",
+      "type": "Affiliate",
+      "primary_email": "srawat@plaunchpad.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "srawat@plaunchpad.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 178,
+      "company_name": "The-Phronesis",
+      "type": "Affiliate",
+      "primary_email": "neeraj@the-phronesis.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "neeraj@the-phronesis.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 179,
+      "company_name": "Phyads",
+      "type": "Affiliate",
+      "primary_email": "sales@phyads.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "sales@phyads.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 180,
+      "company_name": "Promotionbazaar",
+      "type": "Affiliate",
+      "primary_email": "nawal@promotionbazaar.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "nawal@promotionbazaar.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 181,
+      "company_name": "Rtbdemand",
+      "type": "Affiliate",
+      "primary_email": "salman.ahmad@rtbdemand.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "salman.ahmad@rtbdemand.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 182,
+      "company_name": "Sensedigital",
+      "type": "Affiliate",
+      "primary_email": "abhishek.verma@sensedigital.in",
+      "contacts": [
+        {
+          "name": "",
+          "email": "abhishek.verma@sensedigital.in"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 183,
+      "company_name": "Tarsan",
+      "type": "Affiliate",
+      "primary_email": "vishal@tarsan.in",
+      "contacts": [
+        {
+          "name": "",
+          "email": "vishal@tarsan.in"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 184,
+      "company_name": "Trafficvenue",
+      "type": "Affiliate",
+      "primary_email": "anish@trafficvenue.in",
+      "contacts": [
+        {
+          "name": "",
+          "email": "anish@trafficvenue.in"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 185,
+      "company_name": "Vcommission",
+      "type": "Affiliate",
+      "primary_email": "piyush.nagar@vcommission.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "piyush.nagar@vcommission.com"
+        }
+      ],
+      "website": "vcommission.com",
+      "services": [
+        "Affiliate Network",
+        "Lead Generation",
+        "App Installs",
+        "E-commerce Performance",
+        "Pay-Per-Call"
+      ],
+      "industries": [
+        "E-commerce",
+        "Finance & BFSI",
+        "Travel",
+        "Gaming",
+        "EdTech",
+        "Utilities"
+      ],
+      "models": [
+        "CPA",
+        "CPL",
+        "CPS",
+        "CPI",
+        "Pay-per-call"
+      ],
+      "description": "India's leading global affiliate network with 100K+ publishers. Strong in India & APAC.",
+      "tags": [
+        "Affiliate Network",
+        "India",
+        "100K Publishers",
+        "Global",
+        "Performance"
+      ]
+    },
+    {
+      "sr_no": 186,
+      "company_name": "Ventesavenues",
+      "type": "Affiliate",
+      "primary_email": "mukesh.c@ventesavenues.in",
+      "contacts": [
+        {
+          "name": "",
+          "email": "mukesh.c@ventesavenues.in"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 187,
+      "company_name": "Adzurite",
+      "type": "Affiliate",
+      "primary_email": "avaiz.khan@adzurite.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "avaiz.khan@adzurite.com"
+        }
+      ],
+      "website": "adzurite.com",
+      "services": [
+        "Performance Marketing",
+        "Mobile Advertising",
+        "CPA Campaigns"
+      ],
+      "industries": [
+        "E-commerce",
+        "Finance & BFSI",
+        "Gaming"
+      ],
+      "models": [
+        "CPA",
+        "CPL",
+        "CPI"
+      ],
+      "description": "Performance marketing network providing mobile ad campaigns across key verticals.",
+      "tags": [
+        "Performance",
+        "Mobile",
+        "CPA",
+        "India"
+      ]
+    },
+    {
+      "sr_no": 188,
+      "company_name": "Xploredigital",
+      "type": "Affiliate",
+      "primary_email": "bhupender@xploredigital.in",
+      "contacts": [
+        {
+          "name": "",
+          "email": "bhupender@xploredigital.in"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 189,
+      "company_name": "Zettamobi",
+      "type": "Affiliate",
+      "primary_email": "info@zettamobi.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "info@zettamobi.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 190,
+      "company_name": "Auburnsolutions",
+      "type": "Affiliate",
+      "primary_email": "arshad@auburnsolutions.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "arshad@auburnsolutions.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 191,
+      "company_name": "Cashlelo",
+      "type": "Affiliate",
+      "primary_email": "sahil@cashlelo.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "sahil@cashlelo.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 192,
+      "company_name": "Sandbox-Ads",
+      "type": "Affiliate",
+      "primary_email": "raghavkaushal@sandbox-ads.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "raghavkaushal@sandbox-ads.com"
+        }
+      ],
+      "website": "sandbox-ads.com",
+      "services": [
+        "Mobile Advertising",
+        "User Acquisition",
+        "Performance Marketing"
+      ],
+      "industries": [
+        "Gaming",
+        "E-commerce",
+        "Finance & BFSI",
+        "Entertainment"
+      ],
+      "models": [
+        "CPI",
+        "CPA",
+        "CPM"
+      ],
+      "description": "Mobile advertising network with focus on gaming and app user acquisition.",
+      "tags": [
+        "Mobile",
+        "Gaming",
+        "User Acquisition",
+        "App Installs"
+      ]
+    },
+    {
+      "sr_no": 193,
+      "company_name": "Affle",
+      "type": "Affiliate",
+      "primary_email": "prathamesh.malunjkar@affle.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "prathamesh.malunjkar@affle.com"
+        }
+      ],
+      "website": "affle.com",
+      "services": [
+        "Mobile Programmatic Platform",
+        "User Acquisition at Scale",
+        "CTV Advertising",
+        "AI Creative Optimization",
+        "Fraud Detection"
+      ],
+      "industries": [
+        "E-commerce",
+        "Finance & BFSI",
+        "Gaming",
+        "Travel",
+        "FMCG",
+        "Telecom",
+        "Automotive"
+      ],
+      "models": [
+        "CPCU",
+        "CPI",
+        "CPA"
+      ],
+      "description": "India's only listed global AdTech company. Proprietary consumer intelligence platform. 3.2B connected devices. Strong CPCU model with low fraud.",
+      "tags": [
+        "Listed Company",
+        "Mobile",
+        "CTV",
+        "AI",
+        "Fraud-Free",
+        "Global Scale"
+      ]
+    },
+    {
+      "sr_no": 194,
+      "company_name": "Adsrootdigital",
+      "type": "Affiliate",
+      "primary_email": "arpit.srivastava@adsrootdigital.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "arpit.srivastava@adsrootdigital.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 195,
+      "company_name": "Clearpier",
+      "type": "Affiliate",
+      "primary_email": "vishnupriya.gupta@clearpier.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "vishnupriya.gupta@clearpier.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 196,
+      "company_name": "Proformics",
+      "type": "Affiliate",
+      "primary_email": "dhruv.sareen@proformics.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "dhruv.sareen@proformics.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 197,
+      "company_name": "Yomolabs",
+      "type": "Affiliate",
+      "primary_email": "harshita@yomolabs.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "harshita@yomolabs.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 198,
+      "company_name": "Momentus",
+      "type": "Affiliate",
+      "primary_email": "rohit@momentus.in",
+      "contacts": [
+        {
+          "name": "",
+          "email": "rohit@momentus.in"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 199,
+      "company_name": "Whistle.Mobi",
+      "type": "Affiliate",
+      "primary_email": "ritishaa.mordani@whistle.mobi",
+      "contacts": [
+        {
+          "name": "",
+          "email": "ritishaa.mordani@whistle.mobi"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 200,
+      "company_name": "Advisible",
+      "type": "Affiliate",
+      "primary_email": "shikha@advisible.in",
+      "contacts": [
+        {
+          "name": "",
+          "email": "shikha@advisible.in"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 201,
+      "company_name": "Prismatix.Ai",
+      "type": "Affiliate",
+      "primary_email": "nitin@prismatix.ai",
+      "contacts": [
+        {
+          "name": "",
+          "email": "nitin@prismatix.ai"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 202,
+      "company_name": "Tec-Do",
+      "type": "Affiliate",
+      "primary_email": "alexis.hu@tec-do.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "alexis.hu@tec-do.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 203,
+      "company_name": "Litadzmedia",
+      "type": "Affiliate",
+      "primary_email": "imran@litadzmedia.in",
+      "contacts": [
+        {
+          "name": "",
+          "email": "imran@litadzmedia.in"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 204,
+      "company_name": "Quickadsmedia",
+      "type": "Affiliate",
+      "primary_email": "abhishek@quickadsmedia.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "abhishek@quickadsmedia.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 205,
+      "company_name": "Hexawebony",
+      "type": "Affiliate",
+      "primary_email": "vijayant@hexawebony.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "vijayant@hexawebony.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 206,
+      "company_name": "Corecloud",
+      "type": "Affiliate",
+      "primary_email": "lavin.joseph@netcorecloud.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "lavin.joseph@netcorecloud.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 207,
+      "company_name": "Apogeemobi",
+      "type": "Affiliate",
+      "primary_email": "leelam.s@apogeemobi.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "leelam.s@apogeemobi.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 208,
+      "company_name": "Flickstree",
+      "type": "Affiliate",
+      "primary_email": "sushant@flickstree.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "sushant@flickstree.com"
+        }
+      ],
+      "website": "flickstree.com",
+      "services": [
+        "Short Video Advertising",
+        "Content Discovery",
+        "Native Advertising"
+      ],
+      "industries": [
+        "Entertainment",
+        "E-commerce",
+        "FMCG",
+        "Finance & BFSI"
+      ],
+      "models": [
+        "CPM",
+        "CPC",
+        "CPV"
+      ],
+      "description": "Short video and content discovery platform for Indian digital audiences.",
+      "tags": [
+        "Short Video",
+        "Content Discovery",
+        "Native",
+        "India"
+      ]
+    },
+    {
+      "sr_no": 209,
+      "company_name": "Tapcrunch",
+      "type": "Affiliate",
+      "primary_email": "tushar.sharma@tapcrunch.co",
+      "contacts": [
+        {
+          "name": "",
+          "email": "tushar.sharma@tapcrunch.co"
+        }
+      ],
+      "website": "tapcrunch.co",
+      "services": [
+        "Mobile Performance Marketing",
+        "User Acquisition",
+        "App Installs",
+        "Re-engagement"
+      ],
+      "industries": [
+        "Gaming",
+        "Finance & BFSI",
+        "E-commerce",
+        "Entertainment"
+      ],
+      "models": [
+        "CPI",
+        "CPA",
+        "CPE"
+      ],
+      "description": "Mobile performance network focused on app user acquisition, re-engagement, and fraud-free installs.",
+      "tags": [
+        "Mobile",
+        "User Acquisition",
+        "App Installs",
+        "Performance"
+      ]
+    },
+    {
+      "sr_no": 210,
+      "company_name": "Gmail",
+      "type": "Affiliate",
+      "primary_email": "girishshakamuri@gmail.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "girishshakamuri@gmail.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 211,
+      "company_name": "Efountain",
+      "type": "Affiliate",
+      "primary_email": "akash@efountain.in",
+      "contacts": [
+        {
+          "name": "",
+          "email": "akash@efountain.in"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 212,
+      "company_name": "Affmantra",
+      "type": "Affiliate",
+      "primary_email": "pulkit@affmantra.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "pulkit@affmantra.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 213,
+      "company_name": "Elevarix",
+      "type": "Affiliate",
+      "primary_email": "amir@elevarix.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "amir@elevarix.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 214,
+      "company_name": "Adgimbal",
+      "type": "Affiliate",
+      "primary_email": "ankit.singh@adgimbal.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "ankit.singh@adgimbal.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 215,
+      "company_name": "Xampmedia",
+      "type": "Affiliate",
+      "primary_email": "shubham@xampmedia.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "shubham@xampmedia.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 216,
+      "company_name": "Appflixmedia",
+      "type": "Affiliate",
+      "primary_email": "info@appflixmedia.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "info@appflixmedia.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 217,
+      "company_name": "Applabs.Ai",
+      "type": "Affiliate",
+      "primary_email": "ambuj@applabs.ai",
+      "contacts": [
+        {
+          "name": "",
+          "email": "ambuj@applabs.ai"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 218,
+      "company_name": "Momagic",
+      "type": "Affiliate",
+      "primary_email": "ayush.mishra@momagic.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "ayush.mishra@momagic.com"
+        }
+      ],
+      "website": "momagic.com",
+      "services": [
+        "Mobile Advertising",
+        "Lock-Screen Advertising",
+        "OEM Advertising",
+        "User Acquisition"
+      ],
+      "industries": [
+        "E-commerce",
+        "Gaming",
+        "Finance & BFSI",
+        "Entertainment",
+        "Telecom"
+      ],
+      "models": [
+        "CPM",
+        "CPI",
+        "CPA"
+      ],
+      "description": "Mobile advertising platform with OEM & lock-screen ad inventory. Strong reach across mid-range Android devices in India.",
+      "tags": [
+        "OEM",
+        "Lock-screen",
+        "Mobile",
+        "India",
+        "Android"
+      ]
+    },
+    {
+      "sr_no": 219,
+      "company_name": "Adu360Media",
+      "type": "Affiliate",
+      "primary_email": "ishani.bhadoriya@adu360media.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "ishani.bhadoriya@adu360media.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 220,
+      "company_name": "Timesinter",
+      "type": "Affiliate",
+      "primary_email": "karan.gupta@timesinternet.in",
+      "contacts": [
+        {
+          "name": "",
+          "email": "karan.gupta@timesinternet.in"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 221,
+      "company_name": "Woost",
+      "type": "Affiliate",
+      "primary_email": "amandeep@woost.io",
+      "contacts": [
+        {
+          "name": "",
+          "email": "amandeep@woost.io"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 222,
+      "company_name": "Mobketing",
+      "type": "Affiliate",
+      "primary_email": "pankaj@mobketing.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "pankaj@mobketing.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 223,
+      "company_name": "Zaiminc",
+      "type": "Affiliate",
+      "primary_email": "bhanupratap@zaiminc.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "bhanupratap@zaiminc.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 224,
+      "company_name": "Fleximobileads",
+      "type": "Affiliate",
+      "primary_email": "rubiya@fleximobileads.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "rubiya@fleximobileads.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 225,
+      "company_name": "Prodflicks",
+      "type": "Affiliate",
+      "primary_email": "shweta@prodflicks.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "shweta@prodflicks.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 226,
+      "company_name": "Adwinmedia",
+      "type": "Affiliate",
+      "primary_email": "oshin@adwinmedia.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "oshin@adwinmedia.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 227,
+      "company_name": "Hiqmobi",
+      "type": "Affiliate",
+      "primary_email": "shiva@hiqmobi.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "shiva@hiqmobi.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 228,
+      "company_name": "Adaltar",
+      "type": "Affiliate",
+      "primary_email": "ankit@adaltar.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "ankit@adaltar.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 229,
+      "company_name": "Marcadeo",
+      "type": "Affiliate",
+      "primary_email": "sanyam@marcadeo.in",
+      "contacts": [
+        {
+          "name": "",
+          "email": "sanyam@marcadeo.in"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 230,
+      "company_name": "Conversiemedia",
+      "type": "Affiliate",
+      "primary_email": "tushar@conversiemedia.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "tushar@conversiemedia.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 231,
+      "company_name": "Adsflicker",
+      "type": "Affiliate",
+      "primary_email": "neha.chauhan@adsflicker.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "neha.chauhan@adsflicker.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 232,
+      "company_name": "Bmmarks",
+      "type": "Affiliate",
+      "primary_email": "amit.grewal@bmmarks.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "amit.grewal@bmmarks.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 233,
+      "company_name": "Themediafinity",
+      "type": "Affiliate",
+      "primary_email": "shivani.m@themediafinity.co",
+      "contacts": [
+        {
+          "name": "",
+          "email": "shivani.m@themediafinity.co"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 234,
+      "company_name": "Metamind.",
+      "type": "Affiliate",
+      "primary_email": "sales@metamind.net.in",
+      "contacts": [
+        {
+          "name": "",
+          "email": "sales@metamind.net.in"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 235,
+      "company_name": "Digitarmedia",
+      "type": "Affiliate",
+      "primary_email": "simran@digitarmedia.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "simran@digitarmedia.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 236,
+      "company_name": "Growaff",
+      "type": "Affiliate",
+      "primary_email": "kritika@growaff.co",
+      "contacts": [
+        {
+          "name": "",
+          "email": "kritika@growaff.co"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 237,
+      "company_name": "Juuuno",
+      "type": "Affiliate",
+      "primary_email": "honey.sinha@juuuno.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "honey.sinha@juuuno.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 238,
+      "company_name": "Proudlyimperfectmedia",
+      "type": "Affiliate",
+      "primary_email": "neeraj@proudlyimperfectmedia.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "neeraj@proudlyimperfectmedia.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 239,
+      "company_name": "Shoolindigital",
+      "type": "Affiliate",
+      "primary_email": "shalija@shoolindigital.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "shalija@shoolindigital.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 240,
+      "company_name": "Jumboads.",
+      "type": "Affiliate",
+      "primary_email": "aayushi@jumboads.net",
+      "contacts": [
+        {
+          "name": "",
+          "email": "aayushi@jumboads.net"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 241,
+      "company_name": "The-Sav",
+      "type": "Affiliate",
+      "primary_email": "vikas@the-sav.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "vikas@the-sav.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 242,
+      "company_name": "Yellowmarsmedia",
+      "type": "Affiliate",
+      "primary_email": "manuj@yellowmarsmedia.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "manuj@yellowmarsmedia.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 243,
+      "company_name": "Royalmobi",
+      "type": "Affiliate",
+      "primary_email": "ramakrushna.p@royalmobi.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "ramakrushna.p@royalmobi.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 244,
+      "company_name": "Adzjunction",
+      "type": "Affiliate",
+      "primary_email": "sales@adzjunction.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "sales@adzjunction.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 245,
+      "company_name": "Growworks",
+      "type": "Affiliate",
+      "primary_email": "manish@grownetworks.in",
+      "contacts": [
+        {
+          "name": "",
+          "email": "manish@grownetworks.in"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 246,
+      "company_name": "Adzinsight",
+      "type": "Affiliate",
+      "primary_email": "gaurav@adzinsight.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "gaurav@adzinsight.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 247,
+      "company_name": "Leadgeics",
+      "type": "Affiliate",
+      "primary_email": "simran@leadgenetics.in",
+      "contacts": [
+        {
+          "name": "",
+          "email": "simran@leadgenetics.in"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 248,
+      "company_name": "Socialsire",
+      "type": "Affiliate",
+      "primary_email": "nikhil@socialsire.in",
+      "contacts": [
+        {
+          "name": "",
+          "email": "nikhil@socialsire.in"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 249,
+      "company_name": "Spriteads",
+      "type": "Affiliate",
+      "primary_email": "pushkar.kaushik@spriteads.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "pushkar.kaushik@spriteads.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    },
+    {
+      "sr_no": 250,
+      "company_name": "Adlyticmedia",
+      "type": "Affiliate",
+      "primary_email": "sundeep@adlyticmedia.com",
+      "contacts": [
+        {
+          "name": "",
+          "email": "sundeep@adlyticmedia.com"
+        }
+      ],
+      "website": "",
+      "services": [],
+      "industries": [],
+      "models": [],
+      "description": "",
+      "tags": []
+    }
+  ],
+  "industries": [
+    "E-commerce",
+    "Finance & BFSI",
+    "Gaming",
+    "Entertainment",
+    "Travel",
+    "EdTech",
+    "FMCG",
+    "Automotive",
+    "Real Estate",
+    "Telecom",
+    "Healthcare",
+    "Insurance",
+    "Crypto",
+    "Utilities",
+    "SaaS",
+    "Digital Services"
+  ],
+  "services": [
+    "Mobile User Acquisition",
+    "Programmatic Advertising",
+    "Lead Generation",
+    "App Installs",
+    "Affiliate Network",
+    "Attribution & Tracking",
+    "Native Advertising",
+    "Video Advertising",
+    "OEM Advertising",
+    "Influencer Marketing",
+    "Cashback & Loyalty",
+    "Email Marketing",
+    "Push Notifications",
+    "Content Discovery",
+    "Publisher Monetization"
+  ],
+  "pricing_models": [
+    "CPA",
+    "CPL",
+    "CPI",
+    "CPM",
+    "CPC",
+    "CPS",
+    "CPV",
+    "CPE",
+    "CPCU",
+    "SaaS Platform",
+    "Pay-per-call",
+    "Revenue Share",
+    "Sponsorship",
+    "Flat Rate"
+  ]
+}

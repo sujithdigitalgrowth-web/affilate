@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Affiliate Vendor Dashboard</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Manrope:wght@400;500;700;800&display=swap"
+    rel="stylesheet"
+  />
+  <link rel="stylesheet" href="styles.css?v=2" />
+</head>
+<body>
+  <div class="bg-orb orb-a" aria-hidden="true"></div>
+  <div class="bg-orb orb-b" aria-hidden="true"></div>
+  <div class="noise" aria-hidden="true"></div>
+
+  <main class="dashboard">
+    <header class="hero">
+      <p class="kicker">Vendor Intelligence</p>
+      <h1>Affiliate Match Dashboard</h1>
+      <p class="subtitle">
+        Search by category, vendor name, or service. Type <strong>insurance</strong> to see all insurance-ready partners.
+      </p>
+
+      <div class="search-wrap">
+        <label for="searchInput" class="sr-only">Search vendors</label>
+        <input
+          id="searchInput"
+          type="text"
+          placeholder="Try: insurance, legal, finance, education..."
+          autocomplete="off"
+        />
+        <span class="search-icon" aria-hidden="true">⌕</span>
+      </div>
+
+      <div class="quick-tags" id="quickTags">
+        <button type="button" data-tag="insurance">Insurance</button>
+        <button type="button" data-tag="finance">Finance</button>
+        <button type="button" data-tag="health">Health</button>
+        <button type="button" data-tag="legal">Legal</button>
+        <button type="button" data-tag="education">Education</button>
+      </div>
+    </header>
+
+    <section class="status-row">
+      <p id="resultsInfo">Loading vendors...</p>
+      <button id="clearSearch" type="button">Clear</button>
+    </section>
+
+    <section id="vendorGrid" class="vendor-grid" aria-live="polite"></section>
+  </main>
+
+  <template id="vendorCardTemplate">
+    <article class="vendor-card">
+      <div class="vendor-head">
+        <div>
+          <h2 class="vendor-name"></h2>
+          <p class="vendor-type"></p>
+        </div>
+        <span class="vendor-score"></span>
+      </div>
+      <p class="vendor-blurb"></p>
+      <div class="meta-row">
+        <p class="meta-label">Good At</p>
+        <div class="chip-group strengths"></div>
+      </div>
+      <div class="meta-row">
+        <p class="meta-label">Categories</p>
+        <div class="chip-group categories"></div>
+      </div>
+      <div class="meta-row">
+        <p class="meta-label">Pricing Models</p>
+        <div class="chip-group models"></div>
+      </div>
+      <div class="meta-row contact-block">
+        <p class="meta-label">Contact Details</p>
+        <div class="contact-list">
+          <p class="contact-line website"></p>
+          <p class="contact-line contact"></p>
+        </div>
+      </div>
+    </article>
+  </template>
+
+  <script src="script.js?v=2"></script>
+</body>
+</html>
